@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "fcc4caf6-8507-34e1-89a0-20090806c16d",
+    "name": "Kingslayer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6fa828a0-7b32-3586-8f4a-91ed4b9700cb",
+    "name": "leomod",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "74246128-5606-39b8-a194-2c11e5231ef9",
+    "name": "Tony",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "49e4295a-04b3-3a99-a00b-97504e2f1ee7",
+    "name": "_Kingslayer_",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
