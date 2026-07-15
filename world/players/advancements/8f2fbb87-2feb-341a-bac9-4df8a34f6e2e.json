@@ -3859,15 +3859,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/use_lodestone": {
-    "criteria": {
-      "use_lodestone": "2026-07-15 15:25:39 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2026-07-15 15:25:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2026-07-15 15:25:39 +0200"
     },
     "done": true
   },
