@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:beach": "2026-07-13 21:11:50 +0200",
       "minecraft:old_growth_pine_taiga": "2026-07-07 22:23:16 +0200",
+      "minecraft:dark_forest": "2026-07-16 15:56:00 +0200",
       "minecraft:forest": "2026-07-07 22:48:45 +0200",
       "minecraft:mangrove_swamp": "2026-07-13 21:08:03 +0200",
       "minecraft:sparse_jungle": "2026-07-07 22:50:33 +0200",
@@ -20,9 +21,11 @@
       "minecraft:desert": "2026-07-07 22:06:39 +0200",
       "minecraft:ocean": "2026-07-07 22:51:38 +0200",
       "minecraft:jungle": "2026-07-13 21:00:11 +0200",
+      "minecraft:meadow": "2026-07-16 15:52:14 +0200",
       "minecraft:birch_forest": "2026-07-15 23:00:52 +0200",
       "minecraft:old_growth_spruce_taiga": "2026-07-07 22:13:13 +0200",
       "minecraft:savanna": "2026-07-07 22:39:43 +0200",
+      "minecraft:bamboo_jungle": "2026-07-16 15:48:16 +0200",
       "minecraft:windswept_savanna": "2026-07-13 21:07:14 +0200",
       "minecraft:plains": "2026-07-07 22:23:37 +0200",
       "minecraft:deep_lukewarm_ocean": "2026-07-15 14:57:09 +0200"
@@ -4086,6 +4089,96 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2026-07-15 22:44:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2026-07-16 14:52:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_shelf": {
+    "criteria": {
+      "has_stripped_spruce_log": "2026-07-16 15:20:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-07-16 15:20:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2026-07-16 15:20:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2026-07-16 15:21:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2026-07-16 15:21:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-07-16 15:59:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-07-16 15:59:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2026-07-16 15:59:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-07-16 15:59:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-07-16 15:59:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2026-07-16 15:59:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2026-07-16 15:59:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2026-07-16 15:59:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2026-07-16 15:59:39 +0200"
     },
     "done": true
   },

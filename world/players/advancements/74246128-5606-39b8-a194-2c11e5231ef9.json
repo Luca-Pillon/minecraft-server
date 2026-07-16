@@ -575,6 +575,7 @@
       "minecraft:zombified_piglin": "2026-07-15 13:27:33 +0200",
       "minecraft:wither_skeleton": "2026-07-12 15:55:49 +0200",
       "minecraft:ghast": "2026-07-15 13:23:38 +0200",
+      "minecraft:cave_spider": "2026-07-16 13:47:35 +0200",
       "minecraft:piglin": "2026-07-11 15:14:14 +0200",
       "minecraft:breeze": "2026-07-15 21:52:12 +0200",
       "minecraft:enderman": "2026-07-10 14:12:21 +0200",
@@ -4532,6 +4533,18 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2026-07-15 23:10:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2026-07-16 13:50:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2026-07-16 14:02:05 +0200"
     },
     "done": true
   },
