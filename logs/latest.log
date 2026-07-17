@@ -1,6 +1,6 @@
-[13:20:28] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
-[13:20:28] [main/INFO]: Mappings not present!
-[13:20:28] [main/INFO]: Loading 46 mods:
+[10:52:23] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
+[10:52:23] [main/INFO]: Mappings not present!
+[10:52:23] [main/INFO]: Loading 46 mods:
 	- chunky 1.5.3
 	- entityculling 1.10.2
 	   |-- transition 1.0.19
@@ -54,148 +54,39 @@
 	- java 25
 	- lithium 0.24.4+mc26.1.2
 	- minecraft 26.1.2
-[13:20:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[13:20:29] [main/INFO]: Compatibility level set to JAVA_17
-[13:20:29] [main/INFO]: Compatibility level set to JAVA_25
-[13:20:29] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
-[13:20:29] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 0 override(s) found.
-[13:20:30] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
-[13:20:33] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[13:20:34] [main/INFO]: Loaded 1515 recipes
-[13:20:34] [main/INFO]: Loaded 1617 advancements
-[13:20:34] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.367 ms
-[13:20:34] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[13:20:34] [Server thread/INFO]: Loading properties
-[13:20:34] [Server thread/INFO]: Default game type: SURVIVAL
-[13:20:34] [Server thread/INFO]: Generating keypair
-[13:20:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:20:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:20:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:20:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:20:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:20:34] [Server thread/INFO]: Preparing level "world"
-[13:20:35] [Server thread/INFO]: Loading 0 persistent chunks...
-[13:20:35] [Server thread/INFO]: Preparing spawn area: 100%
-[13:20:35] [Server thread/INFO]: Time elapsed: 46 ms
-[13:20:35] [Server thread/INFO]: Done (0.297s)! For help, type "help"
-[13:20:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:20:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:20:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:20:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:20:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:20:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:20:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[13:21:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:24:59] [Server thread/INFO]: Tony[/127.0.0.1:65170] logged in with entity id 44 at (383.9391665703874, 75.875, 1290.113802929684)
-[13:24:59] [Server thread/INFO]: Tony joined the game
-[13:29:41] [Server thread/INFO]: leomod[/26.53.21.84:53062] logged in with entity id 1591 at (414.29606798237114, 63.0, 1113.89121945024)
-[13:29:41] [Server thread/INFO]: leomod joined the game
-[13:30:23] [Server thread/WARN]: leomod moved too quickly! 6.1423435111098,1.4215999984741217,7.895964915619288
-[13:37:54] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[13:38:53] [Server thread/INFO]: leomod was blown up by Creeper
-[13:39:48] [Server thread/WARN]: leomod was kicked for floating too long!
-[13:39:49] [Server thread/INFO]: leomod lost connection: Flying is not enabled on this server
-[13:39:49] [Server thread/INFO]: leomod left the game
-[13:40:00] [Server thread/INFO]: leomod[/26.53.21.84:60390] logged in with entity id 6887 at (561.5177729831767, 71.24918707874468, 1277.2485864114344)
-[13:40:00] [Server thread/INFO]: leomod joined the game
-[13:41:46] [Server thread/WARN]: leomod moved too quickly! 1.485885384503888,-1.0,10.06836629017539
-[13:47:49] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[13:56:28] [Server thread/WARN]: leomod moved too quickly! -3.1735838049701215,-0.23152379758701613,-9.507998936948525
-[13:57:21] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[13:59:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=398, y=72, z=1108} BlockPos{x=397, y=71, z=1108}
-[14:02:17] [Server thread/WARN]: leomod moved too quickly! 10.19544735178306,1.0,0.6071787564528677
-[14:03:04] [Server thread/WARN]: leomod moved too quickly! -3.2176531081686903,-3.0,-9.189669030057757
-[14:07:29] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[14:16:42] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[14:22:40] [Server thread/WARN]: leomod moved too quickly! 2.8436573321292826,0.0,9.638863377216694
-[14:26:50] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[14:30:48] [Server thread/INFO]: MECIULLO[/26.158.127.155:56485] logged in with entity id 27978 at (358.9571353553111, 68.0, 1271.9141858496603)
-[14:30:48] [Server thread/INFO]: MECIULLO joined the game
-[14:32:32] [Server thread/WARN]: MECIULLO moved too quickly! 6.6034458607549595,0.25799910351528155,-7.656676441712989
-[14:33:09] [Server thread/WARN]: MECIULLO moved too quickly! -0.016479799636158532,2.328867993957516,9.761612402194487
-[14:35:50] [Server thread/WARN]: MECIULLO moved too quickly! -6.46199292403486,0.0,7.881546601618538
-[14:36:45] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[14:44:48] [Server thread/WARN]: MECIULLO moved too quickly! -6.991043234325957,-6.34107634432705,4.52487644987832
-[14:44:57] [Server thread/WARN]: leomod moved too quickly! -8.766109249112674,1.7286092609382138,-4.698327899451215
-[14:47:04] [Server thread/WARN]: MECIULLO moved too quickly! -8.653967697923349,-2.024424088213692,4.745489923880086
-[14:48:10] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[14:52:38] [Server thread/INFO]: [Tony: Set the weather to clear]
-[14:54:59] [Server thread/WARN]: MECIULLO moved too quickly! 4.973978908432514,1.0,8.65148444480269
-[14:55:21] [Server thread/WARN]: MECIULLO moved too quickly! -6.699457382924379,0.7531999805212024,-7.495572777157577
-[14:55:51] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[14:55:59] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[14:56:36] [Server thread/WARN]: MECIULLO moved too quickly! -8.840353261732702,-2.0,4.257322997813162
-[14:58:22] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[15:01:18] [Server thread/WARN]: MECIULLO moved too quickly! 10.03263128763544,0.7508129212553172,-0.1512247459156697
-[15:08:55] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[15:09:30] [Server thread/WARN]: MECIULLO moved too quickly! -10.182021052633388,1.0244240882136921,0.2390730837432784
-[15:11:50] [Server thread/WARN]: MECIULLO moved too quickly! -2.018098399946041,-3.004799122994072,9.398226545341458
-[15:13:47] [Server thread/WARN]: MECIULLO moved too quickly! 4.143517659908923,-0.04353562014750878,9.371655639214168
-[15:14:29] [Server thread/WARN]: MECIULLO moved too quickly! -10.14044719109927,1.2491870787446828,0.03946302255303635
-[15:14:34] [Server thread/WARN]: leomod moved too quickly! 6.154020106390192,2.249187078744683,-7.982348177096355
-[15:15:21] [Server thread/WARN]: MECIULLO moved too quickly! 8.171491166036446,-0.7420008964847256,6.231392287805193
-[15:17:27] [Server thread/WARN]: leomod moved too quickly! 8.40846843746408,0.49520087700592796,5.658492466227699
-[15:18:53] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[15:19:13] [Server thread/WARN]: MECIULLO moved too quickly! 9.631533725006534,2.252203340253729,-2.652746254406111
-[15:23:07] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[15:23:18] [Server thread/WARN]: MECIULLO moved too quickly! 9.350857675782038,-3.0,-2.6268183131842306
-[15:23:50] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[15:23:58] [Server thread/WARN]: MECIULLO moved too quickly! -0.09444043587728856,-0.010650014126028395,10.120167251563089
-[15:24:14] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[15:24:27] [Server thread/WARN]: MECIULLO moved too quickly! -8.5280845930385,-0.13090649971452706,-5.714866273487132
-[15:24:36] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[15:24:38] [Server thread/WARN]: MECIULLO moved too quickly! -9.29950334204841,2.176759275064242,-3.4720490042031997
-[15:24:59] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[15:25:12] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[15:25:20] [Server thread/WARN]: MECIULLO moved too quickly! 10.301069341039636,-0.043535620147501675,-0.11937063710411167
-[15:26:03] [Server thread/WARN]: MECIULLO moved too quickly! -10.165287237138728,0.42355929454303975,0.24588775874940438
-[15:26:20] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[15:26:34] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[15:26:59] [Server thread/INFO]: [Tony: Gave 1 [Dark Oak Sapling] to Tony]
-[15:27:03] [Server thread/WARN]: MECIULLO moved too quickly! -0.20605748420013015,0.42355929454303975,10.055754546594699
-[15:27:04] [Server thread/WARN]: MECIULLO was kicked for floating too long!
-[15:27:04] [Server thread/INFO]: MECIULLO lost connection: Flying is not enabled on this server
-[15:27:04] [Server thread/INFO]: MECIULLO left the game
-[15:27:19] [Server thread/INFO]: MECIULLO[/26.158.127.155:52279] logged in with entity id 52038 at (410.05022388055795, 64.25220334025373, 1216.1821983502925)
-[15:27:19] [Server thread/INFO]: MECIULLO joined the game
-[15:28:35] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[15:32:25] [Server thread/INFO]: [Not Secure] <MECIULLO> 3085 80 159
-[15:34:15] [Server thread/WARN]: MECIULLO moved too quickly! -7.758166521579994,1.1767592750642422,-6.304507724707719
-[15:34:31] [Server thread/WARN]: MECIULLO was kicked for floating too long!
-[15:34:31] [Server thread/INFO]: MECIULLO lost connection: Flying is not enabled on this server
-[15:34:31] [Server thread/INFO]: MECIULLO left the game
-[15:35:17] [Server thread/INFO]: MECIULLO[/26.158.127.155:52633] logged in with entity id 54967 at (285.533698816829, 89.66610926093821, 1250.6315756399429)
-[15:35:17] [Server thread/INFO]: MECIULLO joined the game
-[15:36:05] [Server thread/INFO]: [Not Secure] <Tony> 3085 80 159
-[15:37:34] [Server thread/WARN]: MECIULLO moved too quickly! 9.806892750629117,1.9139059206844848,-1.6884713621068386
-[15:38:29] [Server thread/WARN]: MECIULLO moved too quickly! 3.7481177719455445,-0.9464426320800641,-9.545414062441296
-[15:39:16] [Server thread/WARN]: MECIULLO moved too quickly! 0.7615594775692216,1.9755759117863079,-9.885457904793839
-[15:39:51] [Server thread/WARN]: MECIULLO moved too quickly! 0.318836690175317,2.5003932710507044,-9.75189981165147
-[15:41:04] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[15:42:16] [Server thread/INFO]: [leomod: Teleported leomod to Tony]
-[15:42:32] [Server thread/WARN]: MECIULLO moved too quickly! 1.79353009518627,4.419999986886978,-9.14960780320581
-[15:42:48] [Server thread/INFO]: MECIULLO lost connection: Timed out
-[15:42:48] [Server thread/INFO]: MECIULLO left the game
-[15:43:03] [Server thread/INFO]: MECIULLO[/26.158.127.155:58026] logged in with entity id 60209 at (1284.40210940243, 74.0, 287.67414975492585)
-[15:43:03] [Server thread/INFO]: MECIULLO joined the game
-[15:45:20] [Server thread/WARN]: MECIULLO moved too quickly! 2.4868555423372527,2.7491326388584127,-9.340856799946806
-[15:48:05] [Server thread/INFO]: [Not Secure] <Tony> 3085 80 159
-[15:48:27] [Server thread/WARN]: MECIULLO moved too quickly! 3.818537901209311,0.7508129212553172,9.225117067453283
-[15:49:22] [Server thread/WARN]: MECIULLO moved too quickly! 9.360330592355012,2.752148900367459,2.6331709614776173
-[15:49:33] [Server thread/WARN]: MECIULLO moved too quickly! 9.860199115682008,0.04353562014750878,2.5418235435178076
-[15:50:43] [Server thread/WARN]: MECIULLO moved too quickly! 8.287212865167476,-5.0,3.074657717214933
-[15:50:48] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[15:52:41] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[15:52:59] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[15:53:14] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[15:55:27] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[15:55:55] [Server thread/WARN]: MECIULLO moved too quickly! 9.995821819923094,0.12129684053920187,1.8125733435303175
-[15:56:10] [Server thread/INFO]: Tony lost connection: Disconnected
-[15:56:10] [Server thread/INFO]: Tony left the game
-[16:00:55] [Server thread/INFO]: MECIULLO lost connection: Disconnected
-[16:00:55] [Server thread/INFO]: MECIULLO left the game
-[16:04:22] [Server thread/WARN]: leomod moved too quickly! 4.733256711391277,1.0,8.997727758522387
-[16:04:38] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[16:09:37] [Server thread/INFO]: leomod lost connection: Disconnected
-[16:09:37] [Server thread/INFO]: leomod left the game
-[16:10:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:52:23] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/pingu/Documents/GitHub/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[10:52:23] [main/INFO]: Compatibility level set to JAVA_17
+[10:52:23] [main/INFO]: Compatibility level set to JAVA_25
+[10:52:23] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
+[10:52:23] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 0 override(s) found.
+[10:52:24] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[10:52:30] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[10:52:31] [main/INFO]: Loaded 1515 recipes
+[10:52:31] [main/INFO]: Loaded 1617 advancements
+[10:52:31] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.267 ms
+[10:52:31] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[10:52:31] [Server thread/INFO]: Loading properties
+[10:52:31] [Server thread/INFO]: Default game type: SURVIVAL
+[10:52:31] [Server thread/INFO]: Generating keypair
+[10:52:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:52:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:52:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:52:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:52:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:52:31] [Server thread/INFO]: Preparing level "world"
+[10:52:32] [Server thread/INFO]: Loading 0 persistent chunks...
+[10:52:32] [Server thread/INFO]: Preparing spawn area: 100%
+[10:52:32] [Server thread/INFO]: Time elapsed: 57 ms
+[10:52:32] [Server thread/INFO]: Done (0.389s)! For help, type "help"
+[10:52:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:52:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:52:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:52:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:52:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:52:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:52:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:53:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:53:34] [Server thread/INFO]: MECIULLO[/127.0.0.1:53774] logged in with entity id 74 at (2799.7496689571035, 64.0, 150.14238546336162)
+[10:53:34] [Server thread/INFO]: MECIULLO joined the game
+[12:56:05] [Server thread/INFO]: MECIULLO lost connection: Disconnected
+[12:56:05] [Server thread/INFO]: MECIULLO left the game
