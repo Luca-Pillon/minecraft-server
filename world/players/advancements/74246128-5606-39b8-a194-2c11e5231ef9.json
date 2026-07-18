@@ -4554,5 +4554,23 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-07-18 14:12:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2026-07-18 14:25:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2026-07-18 13:37:45 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 4790
 }
