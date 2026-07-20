@@ -4572,5 +4572,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2026-07-20 14:51:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2026-07-20 14:51:50 +0200"
+    },
+    "done": false
+  },
   "DataVersion": 4790
 }
