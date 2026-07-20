@@ -1,6 +1,6 @@
-[20:52:49] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
-[20:52:49] [main/INFO]: Mappings not present!
-[20:52:49] [main/INFO]: Loading 46 mods:
+[22:11:55] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
+[22:11:55] [main/INFO]: Mappings not present!
+[22:11:55] [main/INFO]: Loading 46 mods:
 	- chunky 1.5.3
 	- entityculling 1.10.2
 	   |-- transition 1.0.19
@@ -54,201 +54,38 @@
 	- java 25
 	- lithium 0.24.4+mc26.1.2
 	- minecraft 26.1.2
-[20:52:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:52:51] [main/INFO]: Compatibility level set to JAVA_17
-[20:52:51] [main/INFO]: Compatibility level set to JAVA_25
-[20:52:51] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:52:51] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 0 override(s) found.
-[20:52:51] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
-[20:52:55] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[20:52:56] [main/INFO]: Loaded 1515 recipes
-[20:52:56] [main/INFO]: Loaded 1617 advancements
-[20:52:56] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 953.5 μs
-[20:52:56] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[20:52:56] [Server thread/INFO]: Loading properties
-[20:52:56] [Server thread/INFO]: Default game type: SURVIVAL
-[20:52:56] [Server thread/INFO]: Generating keypair
-[20:52:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:52:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:52:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:52:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:52:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:52:56] [Server thread/INFO]: Preparing level "world"
-[20:52:56] [Server thread/INFO]: Loading 0 persistent chunks...
-[20:52:56] [Server thread/INFO]: Preparing spawn area: 100%
-[20:52:56] [Server thread/INFO]: Time elapsed: 41 ms
-[20:52:56] [Server thread/INFO]: Done (0.278s)! For help, type "help"
-[20:52:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:52:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:52:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:52:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:52:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:52:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:52:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[20:53:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:53:57] [Server thread/INFO]: Tony[/127.0.0.1:52047] logged in with entity id 54 at (376.2479850545076, 75.0, 1294.5942810547288)
-[20:53:57] [Server thread/INFO]: Tony joined the game
-[21:09:21] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:09:31] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:11:39] [Server thread/INFO]: MECIULLO[/26.158.127.155:55990] logged in with entity id 3897 at (277.7584501281259, 89.0, 1244.3645598681503)
-[21:11:39] [Server thread/INFO]: MECIULLO joined the game
-[21:11:49] [Server thread/INFO]: [Not Secure] <MECIULLO> caca
-[21:21:31] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[21:22:40] [Server thread/INFO]: Villager Villager['Villager'/6422, l='ServerLevel[world]', x=574.70, y=71.00, z=1428.70] died, message: 'Villager was slain by Tony'
-[21:22:43] [Server thread/INFO]: Villager Villager['Villager'/6474, l='ServerLevel[world]', x=566.46, y=69.00, z=1429.52] died, message: 'Villager was slain by Tony'
-[21:22:50] [Server thread/INFO]: Villager Villager['Villager'/6412, l='ServerLevel[world]', x=576.91, y=69.00, z=1434.04] died, message: 'Villager was slain by Tony'
-[21:22:56] [Server thread/INFO]: Villager Villager['Villager'/6416, l='ServerLevel[world]', x=576.30, y=71.00, z=1428.70] died, message: 'Villager was slain by Tony'
-[21:23:14] [Server thread/INFO]: Villager Villager['Villager'/6420, l='ServerLevel[world]', x=574.70, y=71.00, z=1428.68] died, message: 'Villager was slain by Tony'
-[21:23:29] [Server thread/INFO]: Villager Villager['Leatherworker'/6395, l='ServerLevel[world]', x=582.05, y=71.00, z=1439.26] died, message: 'Leatherworker was slain by Tony'
-[21:23:42] [Server thread/INFO]: Villager Villager['Villager'/6424, l='ServerLevel[world]', x=567.73, y=70.00, z=1445.64] died, message: 'Villager was slain by Tony'
-[21:23:45] [Server thread/INFO]: Villager Villager['Villager'/6355, l='ServerLevel[world]', x=560.49, y=69.00, z=1438.49] died, message: 'Villager was slain by Tony'
-[21:23:58] [Server thread/INFO]: Villager Villager['Villager'/6472, l='ServerLevel[world]', x=551.48, y=70.00, z=1467.47] died, message: 'Villager was slain by Tony'
-[21:24:09] [Server thread/INFO]: Villager Villager['Villager'/6627, l='ServerLevel[world]', x=571.24, y=71.00, z=1482.50] died, message: 'Villager was slain by Tony'
-[21:24:19] [Server thread/INFO]: Villager Villager['Villager'/6628, l='ServerLevel[world]', x=544.83, y=72.00, z=1516.21] died, message: 'Villager was slain by Tony'
-[21:24:40] [Server thread/INFO]: Villager Villager['Villager'/6584, l='ServerLevel[world]', x=558.47, y=71.00, z=1472.40] died, message: 'Villager was slain by Tony'
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -9.557614486890031,-0.11334109828109717,-3.4523166226247213
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -9.751239215733051,-0.1154400075085249,-3.494801302740143
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -9.947212883052202,-0.11753891673595263,-3.5342569821407324
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -10.145324084446258,-0.11963782596338035,-3.5709562708113936
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -10.345380441904524,-0.12173673519080808,-3.6051472438457495
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -10.547206891432268,-0.1238356444182358,-3.6370556495849087
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -10.75064412478963,-0.12593455364566353,-3.6668869190257283
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -10.955547171474223,-0.12803346287309125,-3.694827994380603
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -11.16178410832498,-0.13013237210051898,-3.721048993067825
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -11.36923488526196,-0.1322312813279467,-3.7457047219422748
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -11.57779025670925,-0.13433019055537443,-3.768936055245831
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -11.787350809189888,-0.13642909978280215,-3.7908711885427238
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -11.990784591672309,-0.13852800901022988,-3.820706907952399
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -12.188643013295632,-0.1406269182376576,-3.857732160931846
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -12.381427856390985,-0.14272582746508533,-3.9012998896482713
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -12.56959574289283,-0.14482473669251306,-3.950821271456789
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -12.76060368353842,-0.14692364591994078,-3.9966803495826753
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -12.954196073529317,-0.1490225551473685,-4.039206731261402
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -13.150140312492226,-0.15112146437479623,-4.0787003590855875
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -13.348224734081327,-0.15322037360222396,-4.115434180822831
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -13.548256721916346,-0.15531928282965168,-4.149656578948452
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -13.7500609950863,-0.1574181920570794,-4.181593581521611
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -13.953478047957503,-0.15951710128450713,-4.211450874082175
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -14.15836273039912,-0.16161601051193486,-4.239415630476742
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -14.35754147102341,-0.16371491973936259,-4.274738307063217
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -14.551527804444277,-0.1658138289667903,-4.316756691217506
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -14.740789047173848,-0.16791273819421804,-4.364868169433976
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -14.925750457250388,-0.17001164742164576,-4.418524363406732
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -15.10678897530272,-0.17216152769421456,-4.477228230430455
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -15.284205792629791,-0.1745150720385169,-4.540545712183302
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -15.458221908389419,-0.1771733953813026,-4.6081180735016005
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -15.63624886052861,-0.17998222131713248,-4.67070690929927
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -15.817916434549431,-0.18279104725296236,-4.728915357330607
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -16.002887459619274,-0.18559987318879223,-4.783279007180681
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -16.1908548270427,-0.1884086991246221,-4.834275756846409
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -16.381539292252285,-0.19121752506045198,-4.882327247555395
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -16.57468670074263,-0.19402635099628185,-4.927809587077263
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -16.77006603591974,-0.19683517693211172,-4.9710555742210545
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -16.96746729699339,-0.1996440028679416,-5.012360488627564
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -17.166699909962517,-0.20245282880377147,-5.051983595081765
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -17.367590697862227,-0.20526165473960134,-5.090155153333399
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -17.56998238166284,-0.2080704806754312,-5.1270790327582745
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.496079954138565,0.12772537691589037,2.082871596027644
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.28358376580627,0.12491655098006049,2.0534917925103855
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 10.070539006420404,0.12210772504423062,2.025675160391984
-[21:24:48] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 9.857004271912047,0.11929889910840075,1.999124500341395
-[21:24:49] [Server thread/INFO]: Villager Villager['Villager'/6626, l='ServerLevel[world]', x=558.49, y=69.00, z=1444.70] died, message: 'Villager was slain by Tony'
-[21:24:54] [Server thread/INFO]: Villager Villager['Villager'/6473, l='ServerLevel[world]', x=547.40, y=69.00, z=1451.03] died, message: 'Villager was slain by Tony'
-[21:25:39] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -9.664687821063694,2.1714487447945032,-1.9397070701538723
-[21:25:39] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! -9.83974438511973,2.1985195092914296,-1.9742201331139313
-[21:25:42] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 12.296092742498047,-4.090660730781252,2.407005240839453
-[21:25:42] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 12.296092742498047,-4.090660730781252,2.407005240839453
-[21:25:42] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 12.157938262149344,-3.976614990536177,2.385853559143243
-[21:25:42] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 14.655431040218502,-6.003746450215786,2.7914933966715125
-[21:25:42] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 14.517455403572399,-5.889585296405144,2.7696394857052837
-[21:25:42] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 14.37954515347326,-5.775374103862646,2.74754803070482
-[21:25:42] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 14.241687077272047,-5.661117376072838,2.7252818725396537
-[21:25:42] [Server thread/WARN]: Happy Ghast (vehicle of MECIULLO) moved too quickly! 14.103869901595147,-5.546819211206795,2.7028946637269655
-[21:29:38] [Server thread/WARN]: MECIULLO moved too quickly! 6.400617212477584,-5.0,6.14198046730553
-[21:29:58] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:30:09] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:34:17] [Server thread/WARN]: MECIULLO moved too quickly! 6.960460599508963,-6.0,4.577208204113504
-[21:35:22] [Server thread/WARN]: MECIULLO moved too quickly! -9.639180314462976,2.0013359791121417,-2.9682323816434746
-[21:35:38] [Server thread/WARN]: MECIULLO moved too quickly! -9.650850076358495,2.086094079315515,-2.575030603670257
-[21:35:43] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:36:28] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:37:20] [Server thread/WARN]: MECIULLO moved too quickly! 9.604582285724632,-3.0,1.203275386640371
-[21:37:37] [Server thread/WARN]: MECIULLO moved too quickly! 9.08610317092672,0.16610926093821377,4.6241218425800525
-[21:37:39] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:37:41] [Server thread/WARN]: MECIULLO was kicked for floating too long!
-[21:37:41] [Server thread/INFO]: MECIULLO lost connection: Flying is not enabled on this server
-[21:37:41] [Server thread/INFO]: MECIULLO left the game
-[21:37:55] [Server thread/INFO]: MECIULLO[/26.158.127.155:60507] logged in with entity id 11695 at (343.47009518087947, 72.00133597911214, 1270.875604053698)
-[21:37:55] [Server thread/INFO]: MECIULLO joined the game
-[21:37:58] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:38:19] [Server thread/WARN]: MECIULLO moved too quickly! -9.344871416511353,3.1661092609382138,-2.5010218573602288
-[21:38:23] [Server thread/WARN]: MECIULLO was kicked for floating too long!
-[21:38:23] [Server thread/INFO]: MECIULLO lost connection: Flying is not enabled on this server
-[21:38:23] [Server thread/INFO]: MECIULLO left the game
-[21:38:37] [Server thread/INFO]: MECIULLO[/26.158.127.155:55748] logged in with entity id 11998 at (344.85370314311297, 72.00133597911214, 1277.4820337447734)
-[21:38:37] [Server thread/INFO]: MECIULLO joined the game
-[21:38:54] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
-[21:38:55] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:38:57] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:39:06] [Server thread/WARN]: MECIULLO moved too quickly! -6.496217820244851,0.5,-7.848866351873994
-[21:39:14] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:39:34] [Server thread/WARN]: MECIULLO moved too quickly! 3.0215616514769863,-1.7521489003674589,9.4354586668926
-[21:39:38] [Server thread/WARN]: MECIULLO was kicked for floating too long!
-[21:39:38] [Server thread/INFO]: MECIULLO lost connection: Flying is not enabled on this server
-[21:39:38] [Server thread/INFO]: MECIULLO left the game
-[21:39:52] [Server thread/INFO]: MECIULLO[/26.158.127.155:60975] logged in with entity id 12445 at (316.73512032241376, 68.16610926093821, 1337.4886624591552)
-[21:39:52] [Server thread/INFO]: MECIULLO joined the game
-[21:40:41] [Server thread/WARN]: MECIULLO moved too quickly! 7.818793466055183,-0.7967356006687112,6.412733027434342
-[21:41:13] [Server thread/WARN]: MECIULLO moved too quickly! 9.384173470753751,0.5061351021062137,4.2129273784055385
-[21:41:29] [Server thread/WARN]: MECIULLO was kicked for floating too long!
-[21:41:30] [Server thread/INFO]: MECIULLO lost connection: Flying is not enabled on this server
-[21:41:30] [Server thread/INFO]: MECIULLO left the game
-[21:41:48] [Server thread/INFO]: MECIULLO[/26.158.127.155:55125] logged in with entity id 12892 at (357.3954828867701, 70.24918707874468, 1369.1832821460716)
-[21:41:48] [Server thread/INFO]: MECIULLO joined the game
-[21:43:33] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:43:43] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:44:27] [Server thread/INFO]: MECIULLO lost connection: Disconnected
-[21:44:27] [Server thread/INFO]: MECIULLO left the game
-[21:44:28] [Server thread/INFO]: Tony lost connection: Disconnected
-[21:44:28] [Server thread/INFO]: Tony left the game
+[22:11:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/pingu/Documents/GitHub/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:11:55] [main/INFO]: Compatibility level set to JAVA_17
+[22:11:55] [main/INFO]: Compatibility level set to JAVA_25
+[22:11:55] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:11:55] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 0 override(s) found.
+[22:11:56] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[22:12:01] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[22:12:02] [main/INFO]: Loaded 1515 recipes
+[22:12:02] [main/INFO]: Loaded 1617 advancements
+[22:12:03] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.173 ms
+[22:12:03] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[22:12:03] [Server thread/INFO]: Loading properties
+[22:12:03] [Server thread/INFO]: Default game type: SURVIVAL
+[22:12:03] [Server thread/INFO]: Generating keypair
+[22:12:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:12:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:12:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:12:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:12:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:12:03] [Server thread/INFO]: Preparing level "world"
+[22:12:03] [Server thread/INFO]: Loading 0 persistent chunks...
+[22:12:03] [Server thread/INFO]: Preparing spawn area: 100%
+[22:12:03] [Server thread/INFO]: Time elapsed: 45 ms
+[22:12:03] [Server thread/INFO]: Done (0.367s)! For help, type "help"
+[22:12:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:12:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:12:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:12:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:12:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:12:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:12:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:12:20] [Server thread/INFO]: MECIULLO[/127.0.0.1:61937] logged in with entity id 84 at (343.1377853364187, 70.17675927506424, 1331.7892244510492)
+[22:12:20] [Server thread/INFO]: MECIULLO joined the game
+[22:23:28] [Server thread/INFO]: MECIULLO lost connection: Disconnected
+[22:23:28] [Server thread/INFO]: MECIULLO left the game
