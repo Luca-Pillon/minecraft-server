@@ -2109,6 +2109,7 @@
       "minecraft:zombified_piglin": "2026-07-08 16:24:07 +0200",
       "minecraft:wither_skeleton": "2026-07-11 16:39:27 +0200",
       "minecraft:ghast": "2026-07-11 16:28:21 +0200",
+      "minecraft:hoglin": "2026-07-21 22:19:51 +0200",
       "minecraft:zombie_horse": "2026-07-10 14:00:15 +0200",
       "minecraft:breeze": "2026-07-20 15:31:26 +0200",
       "minecraft:silverfish": "2026-07-20 15:20:03 +0200",
@@ -2262,6 +2263,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2026-07-21 22:14:58 +0200",
       "minecraft:soul_sand_valley": "2026-07-08 16:20:06 +0200",
       "minecraft:nether_wastes": "2026-07-11 15:49:40 +0200",
       "minecraft:basalt_deltas": "2026-07-11 16:03:33 +0200"
@@ -4761,6 +4763,78 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2026-07-20 17:12:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2026-07-21 22:15:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2026-07-21 22:15:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2026-07-21 22:15:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2026-07-21 22:15:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-07-21 22:15:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2026-07-21 22:15:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2026-07-21 22:15:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-07-21 22:15:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2026-07-21 22:15:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2026-07-21 22:15:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-07-21 22:15:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2026-07-21 22:18:20 +0200"
     },
     "done": true
   },

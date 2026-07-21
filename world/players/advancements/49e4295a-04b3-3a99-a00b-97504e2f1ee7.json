@@ -274,6 +274,7 @@
       "bread": "2026-07-07 22:54:26 +0200",
       "rotten_flesh": "2026-07-07 22:20:35 +0200",
       "cooked_mutton": "2026-07-08 14:58:05 +0200",
+      "salmon": "2026-07-21 23:14:11 +0200",
       "cooked_beef": "2026-07-07 23:14:32 +0200",
       "baked_potato": "2026-07-10 16:01:34 +0200",
       "beef": "2026-07-15 22:39:00 +0200",
@@ -282,6 +283,7 @@
       "apple": "2026-07-07 22:29:17 +0200",
       "cooked_chicken": "2026-07-08 14:06:54 +0200",
       "potato": "2026-07-07 22:46:10 +0200",
+      "rabbit_stew": "2026-07-21 23:00:55 +0200",
       "cooked_salmon": "2026-07-10 22:58:41 +0200",
       "carrot": "2026-07-11 16:56:33 +0200"
     },
@@ -3261,15 +3263,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "has_planks": "2026-07-17 22:15:58 +0200"
+      "has_iron_nugget": "2026-07-17 22:12:17 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_slab": {
+  "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
-      "has_planks": "2026-07-17 22:31:37 +0200"
+      "has_planks": "2026-07-17 22:15:58 +0200"
     },
     "done": true
   },
@@ -3285,33 +3287,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2026-07-17 22:31:37 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2026-07-17 22:15:58 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2026-07-17 22:31:37 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-07-17 22:31:37 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_planks": "2026-07-17 22:31:37 +0200"
     },
     "done": true
   },
@@ -3333,15 +3311,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2026-07-17 22:15:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2026-07-17 22:15:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2026-07-17 22:31:37 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_sign": {
+  "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
-      "has_planks": "2026-07-17 22:15:58 +0200"
+      "has_planks": "2026-07-17 22:31:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2026-07-17 22:31:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-07-17 22:31:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2026-07-17 22:31:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-07-17 22:31:37 +0200"
     },
     "done": true
   },
@@ -3357,21 +3371,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2026-07-17 22:15:58 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2026-07-17 22:31:37 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
-      "has_iron_nugget": "2026-07-17 22:12:17 +0200"
+      "has_logs": "2026-07-21 22:27:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2026-07-21 21:32:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_boots_dyed": {
+    "criteria": {
+      "has_leather_boots": "2026-07-21 21:31:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:black": "2026-07-21 23:04:19 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2026-07-21 23:06:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2026-07-21 22:27:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2026-07-21 23:06:40 +0200"
     },
     "done": true
   },
