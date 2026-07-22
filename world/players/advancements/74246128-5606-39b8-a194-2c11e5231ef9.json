@@ -311,6 +311,7 @@
       "cooked_chicken": "2026-07-15 21:58:53 +0200",
       "potato": "2026-07-15 14:31:39 +0200",
       "rabbit": "2026-07-07 22:12:18 +0200",
+      "rabbit_stew": "2026-07-22 10:16:19 +0200",
       "poisonous_potato": "2026-07-12 14:08:23 +0200",
       "carrot": "2026-07-10 14:06:33 +0200"
     },
@@ -4906,12 +4907,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2026-07-21 22:15:35 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2026-07-21 20:52:53 +0200"
@@ -4936,12 +4931,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2026-07-21 22:15:35 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2026-07-21 20:52:53 +0200"
@@ -4954,9 +4943,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2026-07-21 22:15:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2026-07-21 22:15:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2026-07-21 22:17:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2026-07-22 09:48:09 +0200"
     },
     "done": true
   },
