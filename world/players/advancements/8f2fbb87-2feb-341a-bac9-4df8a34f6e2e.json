@@ -4525,12 +4525,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_grate_from_honeycomb": {
-    "criteria": {
-      "has_copper_grate": "2026-07-23 21:47:12 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2026-07-23 21:47:09 +0200"
@@ -4564,6 +4558,24 @@
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2026-07-23 21:47:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_honeycomb": {
+    "criteria": {
+      "has_copper_grate": "2026-07-23 21:47:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2026-07-24 16:38:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2026-07-24 17:00:03 +0200"
     },
     "done": true
   },
