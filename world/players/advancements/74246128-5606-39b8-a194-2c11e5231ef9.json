@@ -5160,5 +5160,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2026-07-25 14:40:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/read_power_of_chiseled_bookshelf": {
+    "criteria": {
+      "comparator": "2026-07-25 13:45:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2026-07-25 14:49:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2026-07-25 14:40:18 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 4790
 }
