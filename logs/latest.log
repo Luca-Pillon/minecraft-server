@@ -1,6 +1,6 @@
-[13:54:23] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
-[13:54:23] [main/INFO]: Mappings not present!
-[13:54:23] [main/INFO]: Loading 46 mods:
+[16:45:12] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
+[16:45:12] [main/INFO]: Mappings not present!
+[16:45:12] [main/INFO]: Loading 46 mods:
 	- chunky 1.5.3
 	- entityculling 1.10.2
 	   |-- transition 1.0.19
@@ -54,96 +54,119 @@
 	- java 25
 	- lithium 0.24.4+mc26.1.2
 	- minecraft 26.1.2
-[13:54:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/pingu/Documents/GitHub/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[13:54:24] [main/INFO]: Compatibility level set to JAVA_17
-[13:54:24] [main/INFO]: Compatibility level set to JAVA_25
-[13:54:24] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
-[13:54:24] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 0 override(s) found.
-[13:54:24] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
-[13:54:30] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[13:54:31] [main/INFO]: Loaded 1515 recipes
-[13:54:31] [main/INFO]: Loaded 1617 advancements
-[13:54:31] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.320 ms
-[13:54:31] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[13:54:31] [Server thread/INFO]: Loading properties
-[13:54:31] [Server thread/INFO]: Default game type: SURVIVAL
-[13:54:31] [Server thread/INFO]: Generating keypair
-[13:54:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:54:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:54:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:54:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:54:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:54:31] [Server thread/INFO]: Preparing level "world"
-[13:54:32] [Server thread/INFO]: Loading 0 persistent chunks...
-[13:54:32] [Server thread/INFO]: Preparing spawn area: 100%
-[13:54:32] [Server thread/INFO]: Time elapsed: 61 ms
-[13:54:32] [Server thread/INFO]: Done (0.402s)! For help, type "help"
-[13:54:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:54:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:54:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:54:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:54:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:54:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:54:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[13:54:38] [Server thread/INFO]: MECIULLO[/127.0.0.1:63453] logged in with entity id 16 at (260.62045253089855, 66.0, 1212.9672573606852)
-[13:54:38] [Server thread/INFO]: MECIULLO joined the game
-[14:02:08] [Server thread/INFO]: leomod[/26.53.21.84:54112] logged in with entity id 2493 at (450.0393625044817, 64.0, 1113.6403070354775)
-[14:02:08] [Server thread/INFO]: leomod joined the game
-[14:02:55] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[14:05:15] [Server thread/INFO]: [Not Secure] <leomod> -2970503058110222785
-[14:13:50] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[14:14:05] [Server thread/INFO]: [Not Secure] <MECIULLO> 536 ~ 936
-[14:14:26] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[14:15:06] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[14:37:30] [Server thread/INFO]: leomod has made the advancement [The Cutest Predator]
-[14:49:43] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[14:50:33] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[14:57:10] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[14:58:21] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[15:01:33] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[15:03:02] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[15:05:58] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[15:06:09] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[15:12:36] [Server thread/INFO]: [leomod: Set the weather to clear]
-[15:18:23] [Server thread/INFO]: [leomod: Teleported leomod to MECIULLO]
-[15:21:13] [Server thread/WARN]: leomod moved too quickly! 10.010199656361237,-0.02442408821369213,-2.0916103722786374
-[15:23:45] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[15:31:20] [Server thread/INFO]: [leomod: Gave 300 [Sand] to leomod]
-[15:35:28] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[15:38:57] [Server thread/INFO]: [leomod: Gave 500 [Sand] to leomod]
-[15:40:43] [Server thread/INFO]: [leomod: Gave 30 [Deepslate] to MECIULLO]
-[15:43:47] [Server thread/INFO]: [leomod: Gave 600 [Sand] to leomod]
-[15:45:37] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[15:56:15] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[15:58:05] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[15:58:29] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[16:00:12] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[16:01:12] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[16:03:10] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[16:04:57] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[16:05:02] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[16:05:09] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[16:06:04] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[16:13:23] [Server thread/INFO]: [leomod: Gave 5 [Bucket of Axolotl] to leomod]
-[16:16:47] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[16:17:03] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:night]
-[16:17:26] [Server thread/INFO]: [leomod: Gave 10 [Redstone Torch] to leomod]
-[16:17:43] [Server thread/INFO]: [leomod: Gave 2 [Lever] to leomod]
-[16:18:45] [Server thread/INFO]: [leomod: Gave 10 [White Carpet] to leomod]
-[16:19:34] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[16:24:43] [Server thread/INFO]: [leomod: Gave 10 [Dark Oak Trapdoor] to leomod]
-[16:24:56] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[16:25:00] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[16:25:03] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[16:25:07] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[16:25:12] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[16:25:16] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[16:25:31] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[16:25:36] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[16:35:02] [Server thread/INFO]: [leomod: Gave 150 [Stripped Dark Oak Log] to leomod]
-[16:36:34] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[16:36:59] [Server thread/INFO]: MECIULLO lost connection: Disconnected
-[16:36:59] [Server thread/INFO]: MECIULLO left the game
-[16:41:15] [Server thread/INFO]: [leomod: Set the weather to clear]
-[16:44:25] [Server thread/INFO]: leomod lost connection: Disconnected
-[16:44:25] [Server thread/INFO]: leomod left the game
+[16:45:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/GitHub/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:45:17] [main/INFO]: Compatibility level set to JAVA_17
+[16:45:17] [main/INFO]: Compatibility level set to JAVA_25
+[16:45:18] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
+[16:45:18] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 0 override(s) found.
+[16:45:19] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[16:45:36] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[16:45:40] [main/INFO]: Loaded 1515 recipes
+[16:45:40] [main/INFO]: Loaded 1617 advancements
+[16:45:41] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.084 ms
+[16:45:41] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[16:45:41] [Server thread/INFO]: Loading properties
+[16:45:41] [Server thread/INFO]: Default game type: SURVIVAL
+[16:45:41] [Server thread/INFO]: Generating keypair
+[16:45:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:45:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:45:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:45:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:45:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:45:41] [Server thread/INFO]: Preparing level "world"
+[16:45:42] [Server thread/INFO]: Loading 0 persistent chunks...
+[16:45:42] [Server thread/INFO]: Preparing spawn area: 100%
+[16:45:42] [Server thread/INFO]: Time elapsed: 105 ms
+[16:45:42] [Server thread/INFO]: Done (0.964s)! For help, type "help"
+[16:45:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:45:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:45:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:45:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:45:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:45:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:45:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:45:46] [Server thread/INFO]: leomod[/127.0.0.1:59351] logged in with entity id 56 at (382.70602597505734, 64.0, 1102.9874602842292)
+[16:45:46] [Server thread/INFO]: leomod joined the game
+[16:45:54] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[16:45:58] [Server thread/INFO]: [leomod: Set the weather to clear]
+[16:57:07] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[17:00:11] [Server thread/INFO]: [leomod: Gave 300 [Deepslate Tile Slab] to leomod]
+[17:03:42] [Server thread/INFO]: [leomod: Gave 6 [Dark Oak Slab] to leomod]
+[17:04:03] [Server thread/INFO]: [leomod: Gave 50 [Dark Oak Slab] to leomod]
+[17:05:22] [Server thread/INFO]: [leomod: Gave 4 [Lantern] to leomod]
+[17:06:31] [Server thread/INFO]: [leomod: Gave 60 [Dark Oak Slab] to leomod]
+[17:07:26] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[17:07:47] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
+[17:07:55] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[17:08:45] [Server thread/INFO]: [leomod: Gave 4 [Lantern] to leomod]
+[17:08:59] [Server thread/INFO]: [leomod: Gave 50 [Dark Oak Slab] to leomod]
+[17:10:19] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
+[17:10:23] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[17:13:12] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
+[17:13:15] [Server thread/INFO]: [leomod: Set own game mode to Adventure Mode]
+[17:13:18] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[17:14:09] [Server thread/INFO]: [leomod: Set own game mode to Adventure Mode]
+[17:14:13] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[17:17:06] [Server thread/INFO]: [leomod: Set own game mode to Adventure Mode]
+[17:17:11] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[17:17:14] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[17:17:33] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[17:17:34] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[17:17:38] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[17:20:33] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[17:20:39] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[17:21:26] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[17:21:45] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[17:22:12] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[17:27:13] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[17:27:25] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[17:31:07] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[17:31:47] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[17:31:51] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[17:31:58] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[17:32:04] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[17:32:07] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[17:32:12] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[17:32:16] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[17:32:20] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[17:32:24] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[17:32:27] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[17:39:02] [Server thread/INFO]: [leomod: Gave 40 [Deepslate Tile Stairs] to leomod]
+[17:39:21] [Server thread/INFO]: [leomod: Gave 50 [Deepslate Tiles] to leomod]
+[17:40:07] [Server thread/INFO]: [leomod: Gave 40 [Polished Deepslate] to leomod]
+[17:43:42] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
+[17:43:50] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[17:44:01] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[17:46:24] [Server thread/INFO]: [leomod: Gave 2 [Villager Spawn Egg] to leomod]
+[17:52:35] [Server thread/INFO]: Villager Villager['Mason'/14673, l='ServerLevel[world]', x=372.70, y=64.00, z=1142.50] died, message: 'Mason was slain by leomod'
+[17:55:03] [Server thread/INFO]: [leomod: Gave 4 [Villager Spawn Egg] to leomod]
+[17:55:53] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[17:57:15] [Server thread/INFO]: [leomod: Gave 1 [Composter] to leomod]
+[17:57:44] [Server thread/INFO]: [leomod: Gave 1 [Blast Furnace] to leomod]
+[17:58:10] [Server thread/INFO]: Villager Villager['Villager'/15766, l='ServerLevel[world]', x=375.50, y=64.06, z=1123.84] died, message: 'Villager was slain by leomod'
+[17:58:30] [Server thread/INFO]: [leomod: Gave 60 [Emerald] to leomod]
+[18:02:34] [Server thread/INFO]: [leomod: Gave 200 [Emerald] to leomod]
+[18:02:48] [Server thread/INFO]: [leomod: Gave 2 [Book] to leomod]
+[18:07:14] [Server thread/INFO]: [leomod: Gave 10 [Bottle o' Enchanting] to leomod]
+[18:07:29] [Server thread/INFO]: [leomod: Gave 60 [Bottle o' Enchanting] to leomod]
+[18:09:04] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[18:09:10] [Server thread/INFO]: [leomod: Gave 30 [Bottle o' Enchanting] to leomod]
+[18:11:00] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
+[18:11:17] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[18:11:57] [Server thread/INFO]: leomod has made the advancement [Enchanter]
+[18:12:41] [Server thread/INFO]: [leomod: Gave 1 [Enchanted Book] to leomod]
+[18:12:57] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
+[18:13:00] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[18:13:15] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
+[18:13:17] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[18:13:18] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
+[18:13:19] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[18:13:26] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[18:13:41] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[18:13:42] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[18:13:44] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
+[18:14:00] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[18:14:02] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[18:14:59] [Server thread/INFO]: [leomod: Gave 40 [Steak] to leomod]
+[18:15:02] [Server thread/INFO]: leomod lost connection: Disconnected
+[18:15:02] [Server thread/INFO]: leomod left the game

@@ -5335,27 +5335,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_bed": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
-      "has_light_blue_wool": "2026-07-26 15:55:29 +0200"
+      "has_moss_block": "2026-07-26 14:29:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2026-07-26 14:29:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2026-07-26 14:29:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2026-07-26 14:37:30 +0200"
     },
     "done": true
   },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2026-07-26 15:12:25 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2026-07-26 15:55:29 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2026-07-26 14:29:49 +0200"
     },
     "done": true
   },
@@ -5371,21 +5377,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_bed": {
-    "criteria": {
-      "has_pink_wool": "2026-07-26 15:55:32 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2026-07-26 14:29:49 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2026-07-26 15:12:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2026-07-26 15:55:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2026-07-26 15:55:29 +0200"
     },
     "done": true
   },
@@ -5395,9 +5401,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
+  "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
-      "axolotl_bucket": "2026-07-26 14:37:30 +0200"
+      "has_pink_wool": "2026-07-26 15:55:32 +0200"
     },
     "done": true
   },
@@ -5413,9 +5419,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "minecraft:recipes/misc/map": {
     "criteria": {
-      "has_moss_block": "2026-07-26 14:29:49 +0200"
+      "has_compass": "2026-07-26 18:04:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-07-26 18:11:57 +0200"
     },
     "done": true
   },
