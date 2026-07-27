@@ -5436,5 +5436,19 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2026-07-27 22:53:03 +0200",
+      "minecraft:black": "2026-07-27 22:55:51 +0200",
+      "minecraft:british_shorthair": "2026-07-27 22:52:06 +0200"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2026-07-27 22:52:06 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 4790
 }

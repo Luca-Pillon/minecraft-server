@@ -3377,9 +3377,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
+  "minecraft:recipes/misc/leather_boots_dyed": {
     "criteria": {
-      "has_logs": "2026-07-21 22:27:31 +0200"
+      "has_leather_boots": "2026-07-21 21:31:53 +0200"
     },
     "done": true
   },
@@ -3389,21 +3389,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_boots_dyed": {
+  "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
-      "has_leather_boots": "2026-07-21 21:31:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/complete_catalogue": {
-    "criteria": {
-      "minecraft:black": "2026-07-21 23:04:19 +0200"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2026-07-21 23:06:40 +0200"
+      "has_logs": "2026-07-21 22:27:31 +0200"
     },
     "done": true
   },
@@ -3413,9 +3401,34 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:black": "2026-07-21 23:04:19 +0200",
+      "minecraft:all_black": "2026-07-27 22:14:11 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2026-07-21 23:06:40 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2026-07-21 23:06:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2026-07-27 22:23:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2026-07-27 22:23:57 +0200"
     },
     "done": true
   },
