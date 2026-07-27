@@ -7,26 +7,33 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2026-07-10 14:41:31 +0200",
       "minecraft:old_growth_pine_taiga": "2026-07-07 22:19:08 +0200",
-      "minecraft:dark_forest": "2026-07-10 22:27:17 +0200",
       "minecraft:forest": "2026-07-07 22:32:49 +0200",
       "minecraft:taiga": "2026-07-10 23:01:36 +0200",
-      "minecraft:mangrove_swamp": "2026-07-13 21:11:37 +0200",
-      "minecraft:sparse_jungle": "2026-07-07 22:44:46 +0200",
-      "minecraft:river": "2026-07-07 22:15:24 +0200",
-      "minecraft:lukewarm_ocean": "2026-07-10 14:41:57 +0200",
-      "minecraft:dripstone_caves": "2026-07-08 15:34:15 +0200",
-      "minecraft:old_growth_birch_forest": "2026-07-07 22:54:06 +0200",
+      "minecraft:lush_caves": "2026-07-27 20:35:37 +0200",
       "minecraft:desert": "2026-07-07 22:04:41 +0200",
       "minecraft:ocean": "2026-07-10 14:41:35 +0200",
       "minecraft:jungle": "2026-07-10 22:22:02 +0200",
       "minecraft:birch_forest": "2026-07-10 22:21:38 +0200",
+      "minecraft:windswept_hills": "2026-07-27 20:47:12 +0200",
       "minecraft:old_growth_spruce_taiga": "2026-07-07 22:13:13 +0200",
-      "minecraft:savanna": "2026-07-07 22:39:56 +0200",
       "minecraft:bamboo_jungle": "2026-07-15 14:47:43 +0200",
-      "minecraft:plains": "2026-07-07 22:23:37 +0200",
-      "minecraft:deep_lukewarm_ocean": "2026-07-15 14:55:19 +0200"
+      "minecraft:windswept_savanna": "2026-07-27 20:46:50 +0200",
+      "minecraft:deep_lukewarm_ocean": "2026-07-15 14:55:19 +0200",
+      "minecraft:savanna_plateau": "2026-07-27 20:50:45 +0200",
+      "minecraft:beach": "2026-07-10 14:41:31 +0200",
+      "minecraft:dark_forest": "2026-07-10 22:27:17 +0200",
+      "minecraft:stony_peaks": "2026-07-27 21:00:40 +0200",
+      "minecraft:mangrove_swamp": "2026-07-13 21:11:37 +0200",
+      "minecraft:sparse_jungle": "2026-07-07 22:44:46 +0200",
+      "minecraft:river": "2026-07-07 22:15:24 +0200",
+      "minecraft:lukewarm_ocean": "2026-07-10 14:41:57 +0200",
+      "minecraft:stony_shore": "2026-07-27 20:54:07 +0200",
+      "minecraft:dripstone_caves": "2026-07-08 15:34:15 +0200",
+      "minecraft:old_growth_birch_forest": "2026-07-07 22:54:06 +0200",
+      "minecraft:deep_dark": "2026-07-27 21:02:36 +0200",
+      "minecraft:savanna": "2026-07-07 22:39:56 +0200",
+      "minecraft:plains": "2026-07-07 22:23:37 +0200"
     },
     "done": false
   },
@@ -5181,6 +5188,108 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2026-07-25 14:49:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2026-07-27 21:09:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-07-27 21:09:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2026-07-27 21:09:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-07-27 21:09:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2026-07-27 19:53:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2026-07-27 19:57:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2026-07-27 21:09:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2026-07-27 21:09:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2026-07-27 20:36:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-07-27 21:09:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2026-07-27 19:54:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-07-27 19:54:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2026-07-27 21:09:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2026-07-27 21:03:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2026-07-27 21:09:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2026-07-27 20:36:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2026-07-27 20:36:47 +0200"
     },
     "done": true
   },
