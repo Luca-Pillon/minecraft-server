@@ -5469,45 +5469,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_pink_tulip": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_lightning_rod_from_honeycomb": {
     "criteria": {
-      "has_pink_tulip": "2026-07-29 18:55:02 +0200"
+      "has_oxidized_lightning_rod": "2026-07-29 16:05:49 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/pale_oak_trapdoor": {
+  "minecraft:recipes/tools/magenta_bundle": {
     "criteria": {
-      "has_planks": "2026-07-29 18:58:56 +0200"
+      "has_magenta_dye": "2026-07-29 17:32:26 +0200"
     },
     "done": true
   },
   "minecraft:recipes/decorations/dye_magenta_carpet": {
     "criteria": {
       "has_needed_dye": "2026-07-29 17:32:27 +0200"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2026-07-29 18:52:29 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pale_oak_fence": {
-    "criteria": {
-      "has_planks": "2026-07-29 18:58:56 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2026-07-29 18:55:02 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_lightning_rod_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_lightning_rod": "2026-07-29 16:05:49 +0200"
     },
     "done": true
   },
@@ -5523,15 +5499,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pale_oak_slab": {
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-07-29 17:32:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_magenta_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-07-29 17:32:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2026-07-29 18:52:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2026-07-29 18:55:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2026-07-29 18:55:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2026-07-29 18:56:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2026-07-29 18:56:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_trapdoor": {
     "criteria": {
       "has_planks": "2026-07-29 18:58:56 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/tools/magenta_bundle": {
+  "minecraft:recipes/decorations/pale_oak_fence": {
     "criteria": {
-      "has_magenta_dye": "2026-07-29 17:32:26 +0200"
+      "has_planks": "2026-07-29 18:58:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_slab": {
+    "criteria": {
+      "has_planks": "2026-07-29 18:58:56 +0200"
     },
     "done": true
   },
@@ -5553,33 +5577,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_magenta_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-07-29 17:32:27 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_golem_statue_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_copper_golem_statue": "2026-07-29 19:54:44 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pale_oak_stairs": {
     "criteria": {
       "has_planks": "2026-07-29 18:58:56 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/dye_magenta_harness": {
-    "criteria": {
-      "has_needed_dye": "2026-07-29 17:32:27 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pale_oak_planks": {
-    "criteria": {
-      "has_log": "2026-07-29 18:56:41 +0200"
     },
     "done": true
   },
@@ -5595,9 +5595,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pale_oak_wood": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_golem_statue_from_honeycomb": {
     "criteria": {
-      "has_log": "2026-07-29 18:56:41 +0200"
+      "has_oxidized_copper_golem_statue": "2026-07-29 19:54:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2026-07-29 21:38:08 +0200"
     },
     "done": true
   },
