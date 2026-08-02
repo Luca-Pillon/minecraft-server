@@ -7,29 +7,38 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2026-07-13 21:11:50 +0200",
       "minecraft:old_growth_pine_taiga": "2026-07-07 22:23:16 +0200",
-      "minecraft:dark_forest": "2026-07-16 15:56:00 +0200",
       "minecraft:forest": "2026-07-07 22:48:45 +0200",
+      "minecraft:taiga": "2026-08-02 13:55:35 +0200",
+      "minecraft:lush_caves": "2026-07-13 21:39:44 +0200",
+      "minecraft:ice_spikes": "2026-08-02 14:19:45 +0200",
+      "minecraft:desert": "2026-07-07 22:06:39 +0200",
+      "minecraft:frozen_river": "2026-08-02 14:21:53 +0200",
+      "minecraft:windswept_forest": "2026-08-02 13:57:06 +0200",
+      "minecraft:ocean": "2026-07-07 22:51:38 +0200",
+      "minecraft:jungle": "2026-07-13 21:00:11 +0200",
+      "minecraft:sunflower_plains": "2026-08-02 13:52:41 +0200",
+      "minecraft:birch_forest": "2026-07-15 23:00:52 +0200",
+      "minecraft:old_growth_spruce_taiga": "2026-07-07 22:13:13 +0200",
+      "minecraft:bamboo_jungle": "2026-07-16 15:48:16 +0200",
+      "minecraft:windswept_savanna": "2026-07-13 21:07:14 +0200",
+      "minecraft:deep_lukewarm_ocean": "2026-07-15 14:57:09 +0200",
+      "minecraft:flower_forest": "2026-08-02 16:09:39 +0200",
+      "minecraft:beach": "2026-07-13 21:11:50 +0200",
+      "minecraft:dark_forest": "2026-07-16 15:56:00 +0200",
       "minecraft:mangrove_swamp": "2026-07-13 21:08:03 +0200",
       "minecraft:sparse_jungle": "2026-07-07 22:50:33 +0200",
       "minecraft:river": "2026-07-07 22:10:51 +0200",
       "minecraft:lukewarm_ocean": "2026-07-07 22:51:04 +0200",
       "minecraft:stony_shore": "2026-07-17 11:03:59 +0200",
-      "minecraft:lush_caves": "2026-07-13 21:39:44 +0200",
+      "minecraft:snowy_plains": "2026-08-02 14:13:41 +0200",
       "minecraft:dripstone_caves": "2026-07-13 14:41:58 +0200",
+      "minecraft:snowy_taiga": "2026-08-02 14:13:07 +0200",
       "minecraft:old_growth_birch_forest": "2026-07-07 22:51:44 +0200",
-      "minecraft:desert": "2026-07-07 22:06:39 +0200",
-      "minecraft:ocean": "2026-07-07 22:51:38 +0200",
-      "minecraft:jungle": "2026-07-13 21:00:11 +0200",
+      "minecraft:swamp": "2026-08-02 13:58:39 +0200",
       "minecraft:meadow": "2026-07-16 15:52:14 +0200",
-      "minecraft:birch_forest": "2026-07-15 23:00:52 +0200",
-      "minecraft:old_growth_spruce_taiga": "2026-07-07 22:13:13 +0200",
       "minecraft:savanna": "2026-07-07 22:39:43 +0200",
-      "minecraft:bamboo_jungle": "2026-07-16 15:48:16 +0200",
-      "minecraft:windswept_savanna": "2026-07-13 21:07:14 +0200",
-      "minecraft:plains": "2026-07-07 22:23:37 +0200",
-      "minecraft:deep_lukewarm_ocean": "2026-07-15 14:57:09 +0200"
+      "minecraft:plains": "2026-07-07 22:23:37 +0200"
     },
     "done": false
   },
@@ -5369,6 +5378,162 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2026-08-01 15:07:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2026-08-02 15:29:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2026-08-02 15:29:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2026-08-02 14:24:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2026-08-02 15:16:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2026-08-02 14:19:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2026-08-02 14:26:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2026-08-02 14:00:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2026-08-02 14:00:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-08-02 15:40:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-08-02 15:40:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-08-02 15:40:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2026-08-02 15:22:34 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2026-08-02 13:53:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2026-08-02 14:24:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2026-08-02 14:24:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2026-08-02 15:29:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_oxidized_copper_bulb": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-08-02 15:40:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-08-02 15:40:19 +0200"
     },
     "done": true
   },
