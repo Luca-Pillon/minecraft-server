@@ -582,6 +582,7 @@
       "minecraft:spider": "2026-07-08 14:48:41 +0200",
       "minecraft:creeper": "2026-07-07 22:35:13 +0200",
       "minecraft:slime": "2026-07-08 15:22:28 +0200",
+      "minecraft:zombie_nautilus": "2026-08-03 16:38:05 +0200",
       "minecraft:phantom": "2026-07-08 16:35:07 +0200",
       "minecraft:zombified_piglin": "2026-07-15 20:51:42 +0200",
       "minecraft:witch": "2026-07-10 16:18:17 +0200",
@@ -2187,6 +2188,7 @@
       "minecraft:chicken": "2026-07-18 21:42:57 +0200",
       "minecraft:pig": "2026-07-18 21:43:58 +0200",
       "minecraft:wolf": "2026-07-08 14:58:08 +0200",
+      "minecraft:turtle": "2026-08-03 16:44:55 +0200",
       "minecraft:sheep": "2026-07-18 21:41:47 +0200"
     },
     "done": false
@@ -5381,11 +5383,65 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
-      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
+      "has_sunflower": "2026-08-02 13:53:02 +0200"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2026-08-02 14:00:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2026-08-02 14:00:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2026-08-02 14:19:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2026-08-02 14:24:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2026-08-02 14:24:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2026-08-02 14:24:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2026-08-02 14:26:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2026-08-02 15:16:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2026-08-02 15:22:34 +0200"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
@@ -5399,33 +5455,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
+  "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
-      "has_cod": "2026-08-02 14:24:48 +0200"
+      "has_orange_wool": "2026-08-02 15:29:29 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
-      "has_red_terracotta": "2026-08-02 15:16:51 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2026-08-02 14:19:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2026-08-02 14:26:32 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2026-08-02 14:00:45 +0200"
+      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
     },
     "done": true
   },
@@ -5435,9 +5473,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate": {
     "criteria": {
-      "has_blue_orchid": "2026-08-02 14:00:45 +0200"
+      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_oxidized_copper_bulb": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
     },
     "done": true
   },
@@ -5459,75 +5527,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2026-08-02 15:22:34 +0200"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2026-08-02 13:53:02 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate": {
-    "criteria": {
-      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2026-08-02 14:24:48 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
-    "criteria": {
-      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2026-08-02 14:24:48 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_carpet": {
-    "criteria": {
-      "has_orange_wool": "2026-08-02 15:29:29 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/waxed_oxidized_copper_bulb": {
-    "criteria": {
-      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2026-08-02 15:40:19 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_oxidized_copper": "2026-08-02 15:32:58 +0200"
     },
     "done": true
   },
