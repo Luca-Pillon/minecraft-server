@@ -542,6 +542,7 @@
       "baked_potato": "2026-07-10 22:18:54 +0200",
       "melon_slice": "2026-07-08 16:26:35 +0200",
       "beetroot": "2026-07-10 22:18:35 +0200",
+      "golden_carrot": "2026-08-04 17:34:36 +0200",
       "apple": "2026-07-11 16:39:13 +0200",
       "cooked_chicken": "2026-07-07 23:14:58 +0200",
       "potato": "2026-07-08 16:23:07 +0200",
@@ -5821,93 +5822,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
-    "criteria": {
-      "has_light_gray_terracotta": "2026-08-02 15:07:42 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_orange_wool": "2026-08-02 14:44:09 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+  "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
-      "has_mud_bricks": "2026-08-02 15:08:32 +0200"
+      "has_orange_wool": "2026-08-02 14:44:09 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
-      "has_red_terracotta": "2026-08-02 15:06:50 +0200"
+      "has_cooked_rabbit": "2026-08-02 14:53:45 +0200"
     },
     "done": true
   },
-  "minecraft:adventure/under_lock_and_key": {
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
-      "under_lock_and_key": "2026-08-02 15:33:52 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall": {
-    "criteria": {
-      "has_mud_bricks": "2026-08-02 15:08:32 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2026-08-02 15:24:19 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2026-08-02 15:08:32 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2026-08-02 15:39:52 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2026-08-02 15:39:52 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_glazed_terracotta": {
-    "criteria": {
-      "has_blue_terracotta": "2026-08-02 15:08:30 +0200"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2026-08-02 15:35:32 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_glazed_terracotta": {
-    "criteria": {
-      "has_gray_terracotta": "2026-08-02 15:07:54 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab": {
-    "criteria": {
-      "has_mud_bricks": "2026-08-02 15:08:32 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_cut_copper": "2026-08-02 15:38:32 +0200"
+      "has_cooked_rabbit": "2026-08-02 14:53:45 +0200"
     },
     "done": true
   },
@@ -5917,15 +5852,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2026-08-02 15:06:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2026-08-02 15:07:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2026-08-02 15:07:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2026-08-02 15:08:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2026-08-02 15:08:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2026-08-02 15:08:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2026-08-02 15:08:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2026-08-02 15:08:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
       "has_mud_bricks": "2026-08-02 15:08:32 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
     "criteria": {
-      "has_cooked_rabbit": "2026-08-02 14:53:45 +0200"
+      "has_mud_bricks": "2026-08-02 15:08:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2026-08-02 15:21:55 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2026-08-02 15:24:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2026-08-02 15:24:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2026-08-02 15:33:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2026-08-02 15:35:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-08-02 15:38:32 +0200"
     },
     "done": true
   },
@@ -5947,21 +5966,33 @@
     },
     "done": true
   },
-  "minecraft:adventure/salvage_sherd": {
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_cut_copper_stonecutting": {
     "criteria": {
-      "has_sherd": "2026-08-02 15:21:55 +0200"
+      "has_waxed_cut_copper": "2026-08-02 15:38:32 +0200"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2026-08-02 15:38:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2026-08-02 15:39:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2026-08-02 15:39:52 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2026-08-02 16:10:16 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2026-08-02 15:08:32 +0200"
     },
     "done": true
   },
@@ -5971,33 +6002,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
-      "has_cooked_rabbit": "2026-08-02 14:53:45 +0200"
+      "has_ancient_debris": "2026-08-04 17:35:36 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_carpet": {
+  "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
-      "has_orange_wool": "2026-08-02 14:44:09 +0200"
+      "has_ancient_debris": "2026-08-04 17:35:36 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_cut_copper_stonecutting": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "has_waxed_cut_copper": "2026-08-02 15:38:32 +0200"
+      "has_netherite_scrap": "2026-08-04 17:49:46 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
-      "has_honeycomb": "2026-08-02 15:24:19 +0200"
+      "ancient_debris": "2026-08-04 17:35:36 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "has_waxed_cut_copper": "2026-08-02 15:38:32 +0200"
+      "has_raw_iron_block": "2026-08-04 16:29:52 +0200"
     },
     "done": true
   },
