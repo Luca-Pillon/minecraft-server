@@ -2131,6 +2131,7 @@
       "minecraft:ghast": "2026-07-11 16:28:21 +0200",
       "minecraft:hoglin": "2026-07-21 22:19:51 +0200",
       "minecraft:cave_spider": "2026-07-26 14:59:36 +0200",
+      "minecraft:piglin": "2026-08-05 21:48:36 +0200",
       "minecraft:zombie_horse": "2026-07-10 14:00:15 +0200",
       "minecraft:breeze": "2026-07-20 15:31:26 +0200",
       "minecraft:vindicator": "2026-08-01 14:52:28 +0200",
@@ -6034,15 +6035,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_chestplate_dyed": {
-    "criteria": {
-      "has_leather_chestplate": "2026-08-05 20:38:08 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/leather_boots_dyed": {
     "criteria": {
       "has_leather_boots": "2026-08-05 20:38:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_chestplate_dyed": {
+    "criteria": {
+      "has_leather_chestplate": "2026-08-05 20:38:08 +0200"
     },
     "done": true
   },
