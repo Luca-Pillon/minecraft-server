@@ -1,6 +1,6 @@
-[22:12:22] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
-[22:12:22] [main/INFO]: Mappings not present!
-[22:12:22] [main/INFO]: Loading 46 mods:
+[14:01:53] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
+[14:01:53] [main/INFO]: Mappings not present!
+[14:01:53] [main/INFO]: Loading 46 mods:
 	- chunky 1.5.3
 	- entityculling 1.10.2
 	   |-- transition 1.0.19
@@ -54,88 +54,269 @@
 	- java 25
 	- lithium 0.24.4+mc26.1.2
 	- minecraft 26.1.2
-[22:12:22] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/GitHub/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:12:23] [main/INFO]: Compatibility level set to JAVA_17
-[22:12:23] [main/INFO]: Compatibility level set to JAVA_25
-[22:12:23] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:12:23] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 0 override(s) found.
-[22:12:24] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
-[22:12:31] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[22:12:34] [main/INFO]: Loaded 1515 recipes
-[22:12:34] [main/INFO]: Loaded 1617 advancements
-[22:12:34] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 3.327 ms
-[22:12:34] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[22:12:34] [Server thread/INFO]: Loading properties
-[22:12:34] [Server thread/INFO]: Default game type: SURVIVAL
-[22:12:34] [Server thread/INFO]: Generating keypair
-[22:12:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:12:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:12:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:12:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:12:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:12:35] [Server thread/INFO]: Preparing level "world"
-[22:12:35] [Server thread/INFO]: Loading 0 persistent chunks...
-[22:12:35] [Server thread/INFO]: Preparing spawn area: 100%
-[22:12:35] [Server thread/INFO]: Time elapsed: 91 ms
-[22:12:35] [Server thread/INFO]: Done (0.816s)! For help, type "help"
-[22:12:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:12:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:12:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:12:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:12:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:12:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:12:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[22:12:39] [Server thread/INFO]: leomod[/127.0.0.1:63446] logged in with entity id 115 at (455.40057224922583, 64.0, 1102.7321011394313)
-[22:12:39] [Server thread/INFO]: leomod joined the game
-[22:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[22:14:00] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:14:02] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:14:06] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:14:15] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:25:13] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:25:20] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:25:39] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:25:45] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:28:25] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:28:31] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:29:19] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:29:29] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:36:05] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:36:10] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:37:22] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:37:31] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:40:10] [Server thread/INFO]: [leomod: Gave 3 [Campfire] to leomod]
-[22:40:52] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:42:14] [Server thread/WARN]: leomod moved too quickly! -7.21931603843143,0.0,7.378506477002702
-[22:42:28] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:44:26] [Server thread/INFO]: [leomod: Gave 4 [Chest] to leomod]
-[22:45:24] [Server thread/INFO]: [leomod: Gave 4 [Hopper] to leomod]
-[22:46:00] [Server thread/INFO]: [leomod: Set own game mode to Adventure Mode]
-[22:46:04] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:46:07] [Server thread/INFO]: [leomod: Set own game mode to Adventure Mode]
-[22:46:10] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:46:16] [Server thread/INFO]: [leomod: Set own game mode to Adventure Mode]
-[22:46:41] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:46:47] [Server thread/INFO]: [leomod: Set own game mode to Adventure Mode]
-[22:47:10] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:47:32] [Server thread/INFO]: [leomod: Gave 1 [Lever] to leomod]
-[22:49:12] [Server thread/INFO]: [leomod: Gave 1 [Minecart with Hopper] to leomod]
-[22:49:41] [Server thread/INFO]: [leomod: Set own game mode to Adventure Mode]
-[22:49:45] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:49:51] [Server thread/INFO]: [leomod: Set own game mode to Adventure Mode]
-[22:49:53] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:50:40] [Server thread/INFO]: [leomod: Set own game mode to Adventure Mode]
-[22:50:45] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:50:53] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:52:00] [Server thread/INFO]: [leomod: Gave 4 [Sand] to leomod]
-[22:52:58] [Server thread/INFO]: [leomod: Gave 4 [Piston] to leomod]
-[22:53:14] [Server thread/INFO]: [leomod: Gave 4 [Observer] to leomod]
-[22:53:22] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[22:54:20] [Server thread/INFO]: [leomod: Gave 10 [Redstone Dust] to leomod]
-[22:55:41] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:55:45] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:55:53] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:55:58] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:57:10] [Server thread/INFO]: [leomod: Gave 100 [Bottle o' Enchanting] to leomod]
-[22:57:38] [Server thread/INFO]: leomod lost connection: Disconnected
-[22:57:38] [Server thread/INFO]: leomod left the game
+[14:01:54] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[14:01:54] [main/INFO]: Compatibility level set to JAVA_17
+[14:01:54] [main/INFO]: Compatibility level set to JAVA_25
+[14:01:55] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
+[14:01:55] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 0 override(s) found.
+[14:01:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[14:01:59] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[14:02:00] [main/INFO]: Loaded 1515 recipes
+[14:02:00] [main/INFO]: Loaded 1617 advancements
+[14:02:00] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 861.9 μs
+[14:02:00] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[14:02:00] [Server thread/INFO]: Loading properties
+[14:02:00] [Server thread/INFO]: Default game type: SURVIVAL
+[14:02:00] [Server thread/INFO]: Generating keypair
+[14:02:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:02:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:02:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:02:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:02:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:02:00] [Server thread/INFO]: Preparing level "world"
+[14:02:00] [Server thread/INFO]: Loading 0 persistent chunks...
+[14:02:00] [Server thread/INFO]: Preparing spawn area: 100%
+[14:02:00] [Server thread/INFO]: Time elapsed: 47 ms
+[14:02:00] [Server thread/INFO]: Done (0.304s)! For help, type "help"
+[14:02:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:02:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:02:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:02:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:02:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:02:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:02:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:03:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:03:16] [Server thread/INFO]: Tony[/127.0.0.1:49198] logged in with entity id 51 at (382.95518692620686, 69.0, 1289.8391578723943)
+[14:03:16] [Server thread/INFO]: Tony joined the game
+[14:04:30] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[14:05:17] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[14:05:32] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[14:05:45] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[14:05:54] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[14:06:24] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[14:07:02] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
+[14:12:27] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[14:12:33] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[14:12:34] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[14:12:34] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[14:14:18] [Server thread/INFO]: [Tony: Gave 4 [Lantern] to Tony]
+[14:19:28] [Server thread/INFO]: MECIULLO[/26.158.127.155:60927] logged in with entity id 2960 at (278.4511525838969, 89.0, 1244.7878072694668)
+[14:19:28] [Server thread/INFO]: MECIULLO joined the game
+[14:26:31] [Server thread/WARN]: MECIULLO moved too quickly! 9.518807481732779,-3.3086092740512356,0.566223457426986
+[14:26:56] [Server thread/WARN]: MECIULLO moved too quickly! 7.590979366972533,1.2286092609382138,-6.729908325287624
+[14:31:07] [Server thread/INFO]: [Not Secure] <MECIULLO> 185 -23 713
+[14:34:11] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[14:34:30] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[14:49:14] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[14:49:33] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[14:50:37] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[14:50:46] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[14:51:03] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[14:51:18] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[15:03:40] [Server thread/WARN]: MECIULLO moved too quickly! -3.3136860813505677,0.0,9.551934419445956
+[15:19:49] [Server thread/WARN]: MECIULLO moved too quickly! 3.679218040489218,-0.7420008964847256,9.390844454176204
+[15:25:42] [Server thread/INFO]: [Tony: Set the weather to clear]
+[15:26:56] [Server thread/WARN]: MECIULLO moved too quickly! 3.492081670848222,-2.620264724524432,-9.245459164973454
+[15:27:46] [Server thread/WARN]: MECIULLO moved too quickly! -7.097674662103202,-0.5009966402674735,7.51409635244795
+[15:27:48] [Server thread/WARN]: MECIULLO was kicked for floating too long!
+[15:27:48] [Server thread/INFO]: MECIULLO lost connection: Flying is not enabled on this server
+[15:27:48] [Server thread/INFO]: MECIULLO left the game
+[15:28:06] [Server thread/INFO]: MECIULLO[/26.158.127.155:51523] logged in with entity id 19339 at (315.8057836730462, 73.24918707874468, 1292.5668186796236)
+[15:28:06] [Server thread/INFO]: MECIULLO joined the game
+[15:31:52] [Server thread/INFO]: MECIULLO lost connection: Disconnected
+[15:31:52] [Server thread/INFO]: MECIULLO left the game
+[15:32:04] [Server thread/INFO]: MECIULLO[/26.158.127.155:63549] logged in with entity id 19990 at (258.0197942134168, 68.24918707874468, 1284.9120322515926)
+[15:32:04] [Server thread/INFO]: MECIULLO joined the game
+[15:33:07] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
+[15:33:22] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[15:34:37] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=77, z=1198} BlockPos{x=231, y=77, z=1198}
+[15:34:37] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=77, z=1198} BlockPos{x=231, y=77, z=1198}
+[15:34:37] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=77, z=1198} BlockPos{x=231, y=77, z=1198}
+[15:34:37] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=233, y=75, z=1197} BlockPos{x=233, y=75, z=1199}
+[15:34:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=76, z=1193} BlockPos{x=231, y=76, z=1193}
+[15:34:43] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=76, z=1193} BlockPos{x=231, y=76, z=1193}
+[15:35:00] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[15:35:09] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1186} BlockPos{x=233, y=71, z=1186}
+[15:35:09] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1186} BlockPos{x=233, y=71, z=1186}
+[15:35:09] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1186} BlockPos{x=233, y=71, z=1186}
+[15:35:09] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1186} BlockPos{x=233, y=71, z=1186}
+[15:35:38] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=71, z=1184} BlockPos{x=230, y=71, z=1185}
+[15:35:38] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=71, z=1184} BlockPos{x=230, y=71, z=1185}
+[15:35:38] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=71, z=1184} BlockPos{x=230, y=71, z=1185}
+[15:35:38] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=71, z=1184} BlockPos{x=230, y=71, z=1185}
+[15:35:38] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=71, z=1184} BlockPos{x=230, y=71, z=1185}
+[15:35:38] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=71, z=1184} BlockPos{x=230, y=71, z=1185}
+[15:35:38] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=71, z=1184} BlockPos{x=230, y=71, z=1185}
+[15:35:38] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=71, z=1184} BlockPos{x=230, y=71, z=1185}
+[15:35:38] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=71, z=1184} BlockPos{x=230, y=71, z=1185}
+[15:35:38] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=71, z=1184} BlockPos{x=230, y=71, z=1185}
+[15:35:38] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=71, z=1184} BlockPos{x=230, y=71, z=1185}
+[15:35:39] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=71, z=1184} BlockPos{x=230, y=71, z=1185}
+[15:35:44] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[15:35:50] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1151} BlockPos{x=234, y=67, z=1153}
+[15:35:50] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1151} BlockPos{x=234, y=67, z=1153}
+[15:35:50] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1151} BlockPos{x=234, y=67, z=1153}
+[15:35:51] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1151} BlockPos{x=234, y=67, z=1153}
+[15:35:51] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1151} BlockPos{x=234, y=67, z=1153}
+[15:35:51] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1151} BlockPos{x=234, y=67, z=1153}
+[15:35:51] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1151} BlockPos{x=234, y=67, z=1153}
+[15:35:51] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1151} BlockPos{x=234, y=67, z=1153}
+[15:35:51] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1151} BlockPos{x=234, y=67, z=1153}
+[15:35:51] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1151} BlockPos{x=234, y=67, z=1153}
+[15:35:51] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1151} BlockPos{x=234, y=67, z=1153}
+[15:35:51] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1151} BlockPos{x=234, y=67, z=1153}
+[15:35:52] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1147} BlockPos{x=233, y=67, z=1149}
+[15:35:52] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1147} BlockPos{x=233, y=67, z=1149}
+[15:35:52] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1147} BlockPos{x=233, y=67, z=1149}
+[15:35:52] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1147} BlockPos{x=233, y=67, z=1149}
+[15:35:52] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=70, z=1147} BlockPos{x=233, y=67, z=1149}
+[15:36:15] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=230, y=71, z=1162} BlockPos{x=232, y=70, z=1162}
+[15:36:15] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=230, y=71, z=1162} BlockPos{x=232, y=70, z=1162}
+[15:36:15] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=230, y=71, z=1162} BlockPos{x=232, y=70, z=1162}
+[15:36:15] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=230, y=71, z=1162} BlockPos{x=232, y=70, z=1162}
+[15:36:15] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=230, y=71, z=1162} BlockPos{x=232, y=70, z=1162}
+[15:36:15] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=230, y=71, z=1162} BlockPos{x=232, y=70, z=1162}
+[15:36:17] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=228, y=70, z=1156} BlockPos{x=229, y=70, z=1155}
+[15:36:17] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=228, y=70, z=1156} BlockPos{x=229, y=70, z=1155}
+[15:36:18] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=228, y=70, z=1156} BlockPos{x=229, y=70, z=1155}
+[15:36:18] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=228, y=70, z=1156} BlockPos{x=229, y=70, z=1155}
+[15:36:18] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=228, y=70, z=1156} BlockPos{x=229, y=70, z=1155}
+[15:36:18] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=228, y=70, z=1156} BlockPos{x=229, y=70, z=1155}
+[15:36:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=228, y=70, z=1150} BlockPos{x=229, y=69, z=1151}
+[15:36:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=228, y=70, z=1150} BlockPos{x=229, y=69, z=1151}
+[15:36:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=228, y=70, z=1150} BlockPos{x=229, y=69, z=1151}
+[15:36:21] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=228, y=70, z=1150} BlockPos{x=229, y=69, z=1151}
+[15:36:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=230, y=70, z=1165} BlockPos{x=231, y=69, z=1166}
+[15:36:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=230, y=70, z=1165} BlockPos{x=231, y=69, z=1166}
+[15:36:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=230, y=70, z=1165} BlockPos{x=231, y=69, z=1166}
+[15:36:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=230, y=70, z=1165} BlockPos{x=231, y=69, z=1166}
+[15:36:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=230, y=70, z=1165} BlockPos{x=231, y=69, z=1166}
+[15:36:38] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=231, y=69, z=1172} BlockPos{x=230, y=69, z=1171}
+[15:36:38] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=231, y=69, z=1172} BlockPos{x=230, y=69, z=1171}
+[15:36:38] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=231, y=69, z=1172} BlockPos{x=230, y=69, z=1171}
+[15:36:49] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=229, y=71, z=1183} BlockPos{x=232, y=69, z=1184}
+[15:37:07] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=74, z=1166} BlockPos{x=234, y=66, z=1166}
+[15:38:43] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[15:39:30] [Server thread/INFO]: MECIULLO has made the advancement [Bukkit Bukkit]
+[15:41:22] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[15:41:31] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[15:42:24] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
+[15:47:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=233, y=75, z=1177} BlockPos{x=233, y=67, z=1177}
+[15:47:55] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=231, y=82, z=1198} BlockPos{x=230, y=75, z=1199}
+[15:50:17] [Server thread/INFO]: MECIULLO lost connection: Disconnected
+[15:50:17] [Server thread/INFO]: MECIULLO left the game
+[15:52:21] [Server thread/INFO]: MECIULLO[/26.158.127.155:57685] logged in with entity id 29221 at (228.4530796818146, 70.0, 1233.518312791007)
+[15:52:21] [Server thread/INFO]: MECIULLO joined the game
+[15:52:28] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
+[15:52:36] [Server thread/INFO]: [Tony: Made MECIULLO a server operator]
+[15:52:37] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[15:52:38] [Server thread/INFO]: [MECIULLO: Set own game mode to Creative Mode]
+[15:53:04] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[15:53:06] [Server thread/INFO]: [MECIULLO: Set own game mode to Spectator Mode]
+[15:53:13] [Server thread/INFO]: [MECIULLO: Set own game mode to Creative Mode]
+[15:54:21] [Server thread/INFO]: [MECIULLO: Successfully cloned 5040 block(s)]
+[15:54:53] [Server thread/INFO]: [MECIULLO: Successfully cloned 6720 block(s)]
+[15:55:07] [Server thread/WARN]: MECIULLO moved too quickly! 4.640855301307454,6.420757096391185,6.6783751237423985
+[15:55:32] [Server thread/INFO]: [MECIULLO: Successfully filled 2150 block(s)]
+[15:56:11] [Server thread/INFO]: [MECIULLO: Successfully cloned 6720 block(s)]
+[15:56:31] [Server thread/INFO]: [MECIULLO: Successfully cloned 6240 block(s)]
+[15:56:43] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[15:57:42] [Server thread/INFO]: [MECIULLO: Set own game mode to Spectator Mode]
+[15:57:44] [Server thread/INFO]: [MECIULLO: Set own game mode to Survival Mode]
+[15:57:46] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[15:57:48] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[15:59:35] [Server thread/INFO]: Villager Villager['Fisherman'/16761, l='ServerLevel[world]', x=278.74, y=97.00, z=1244.72] died, message: 'Fisherman was slain by MECIULLO'
+[15:59:37] [Server thread/INFO]: Villager Villager['Fisherman'/16798, l='ServerLevel[world]', x=278.96, y=97.06, z=1243.90] died, message: 'Fisherman was slain by MECIULLO'
+[16:01:44] [Server thread/INFO]: [MECIULLO: Set own game mode to Creative Mode]
+[16:01:51] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:02:47] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:02:55] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
+[16:03:15] [Server thread/INFO]: [MECIULLO: Successfully filled 3890 block(s)]
+[16:03:20] [Server thread/INFO]: [MECIULLO: Successfully filled 32 block(s)]
+[16:04:04] [Server thread/INFO]: [MECIULLO: Successfully filled 4525 block(s)]
+[16:04:14] [Server thread/INFO]: [MECIULLO: Successfully filled 9 block(s)]
+[16:04:29] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:05:15] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[16:05:47] [Server thread/INFO]: [MECIULLO: Successfully filled 7880 block(s)]
+[16:06:42] [Server thread/INFO]: [MECIULLO: Successfully filled 666 block(s)]
+[16:06:46] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:07:16] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[16:07:19] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:07:38] [Server thread/INFO]: [MECIULLO: Successfully filled 393 block(s)]
+[16:07:44] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:07:48] [Server thread/INFO]: [MECIULLO: Successfully filled 835 block(s)]
+[16:07:49] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:08:05] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:08:13] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:09:28] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:09:33] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[16:10:50] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:13:37] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:14:08] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[16:14:15] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:14:53] [Server thread/WARN]: MECIULLO moved too quickly! 9.230266192253453,-4.055304213166281,-3.1694095165528324
+[16:15:12] [Server thread/INFO]: [MECIULLO: Set own game mode to Survival Mode]
+[16:16:44] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
+[16:19:27] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=283, y=67, z=1230} BlockPos{x=284, y=68, z=1230}
+[16:21:36] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=289, y=70, z=1212} BlockPos{x=287, y=70, z=1214}
+[16:23:03] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[16:23:18] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:24:16] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:24:31] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:26:15] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
+[16:30:06] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:31:15] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:32:22] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=278, y=65, z=1239} BlockPos{x=276, y=66, z=1229}
+[16:33:30] [Server thread/INFO]: [MECIULLO: Set own game mode to Spectator Mode]
+[16:33:45] [Server thread/WARN]: MECIULLO moved too quickly! -21.80651397948833,0.0,-1.4134268824161609
+[16:33:47] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:33:52] [Server thread/WARN]: MECIULLO moved too quickly! 10.808102768116214,0.0,-0.9363651649005078
+[16:34:18] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:34:19] [Server thread/WARN]: MECIULLO moved too quickly! 14.701329959791963,0.5399999618530273,4.688757716270629
+[16:34:41] [Server thread/INFO]: [MECIULLO: Set own game mode to Creative Mode]
+[16:34:55] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:35:53] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
+[16:36:57] [Server thread/INFO]: [MECIULLO: Successfully cloned 7680 block(s)]
+[16:37:21] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[16:37:43] [Server thread/INFO]: [MECIULLO: Successfully cloned 7680 block(s)]
+[16:38:45] [Server thread/INFO]: [Tony: Successfully filled 2763 block(s)]
+[16:39:11] [Server thread/INFO]: [Tony: Successfully filled 336 block(s)]
+[16:39:13] [Server thread/INFO]: [MECIULLO: Successfully cloned 7680 block(s)]
+[16:39:33] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:39:51] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[16:39:53] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:39:54] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:40:25] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[16:41:19] [Server thread/WARN]: MECIULLO moved too quickly! 10.769367373699765,-1.7342447183445415,1.3295500776603149
+[16:42:06] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:42:08] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[16:42:23] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:42:24] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:42:37] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:42:42] [Server thread/INFO]: [MECIULLO: Set own game mode to Survival Mode]
+[16:42:45] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:42:50] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:42:52] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:42:57] [Server thread/INFO]: [Tony: Successfully filled 2211 block(s)]
+[16:42:59] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:43:11] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[16:43:14] [Server thread/INFO]: [MECIULLO: Set own game mode to Spectator Mode]
+[16:43:28] [Server thread/INFO]: [MECIULLO: Set own game mode to Survival Mode]
+[16:44:39] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:44:49] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[16:44:51] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:44:52] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:45:26] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
+[16:47:33] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[16:47:44] [Server thread/INFO]: [MECIULLO: Set own game mode to Spectator Mode]
+[16:48:56] [Server thread/WARN]: MECIULLO moved too quickly! 11.778541445268786,3.9815487578224236,-4.211907309892695
+[16:49:01] [Server thread/WARN]: MECIULLO moved too quickly! 18.389922225466535,0.0,-0.45701468907122944
+[16:49:55] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[16:49:59] [Server thread/WARN]: MECIULLO moved too quickly! -16.6320547372639,-2.2481721482474626,5.440919619816441
+[16:50:02] [Server thread/WARN]: MECIULLO moved too quickly! 8.057827595119022,0.0,9.059462257006317
+[16:50:07] [Server thread/INFO]: Tony lost connection: Disconnected
+[16:50:07] [Server thread/INFO]: Tony left the game
+[16:50:09] [Server thread/WARN]: MECIULLO moved too quickly! 10.630302282095727,-2.269634382479751,9.852731263574697
+[16:50:16] [Server thread/INFO]: [MECIULLO: Set own game mode to Survival Mode]
+[16:50:27] [Server thread/INFO]: MECIULLO lost connection: Disconnected
+[16:50:27] [Server thread/INFO]: MECIULLO left the game
