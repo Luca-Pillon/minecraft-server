@@ -1,6 +1,6 @@
-[12:45:47] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
-[12:45:47] [main/INFO]: Mappings not present!
-[12:45:47] [main/INFO]: Loading 46 mods:
+[18:40:19] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
+[18:40:19] [main/INFO]: Mappings not present!
+[18:40:20] [main/INFO]: Loading 46 mods:
 	- chunky 1.5.3
 	- entityculling 1.10.2
 	   |-- transition 1.0.19
@@ -54,95 +54,105 @@
 	- java 25
 	- lithium 0.24.4+mc26.1.2
 	- minecraft 26.1.2
-[12:45:48] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[12:45:49] [main/INFO]: Compatibility level set to JAVA_17
-[12:45:49] [main/INFO]: Compatibility level set to JAVA_25
-[12:45:49] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
-[12:45:49] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 0 override(s) found.
-[12:45:49] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
-[12:45:53] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[12:45:54] [main/INFO]: Loaded 1515 recipes
-[12:45:54] [main/INFO]: Loaded 1617 advancements
-[12:45:54] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 979.6 μs
-[12:45:54] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[12:45:54] [Server thread/INFO]: Loading properties
-[12:45:54] [Server thread/INFO]: Default game type: SURVIVAL
-[12:45:54] [Server thread/INFO]: Generating keypair
-[12:45:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:45:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:45:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:45:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:45:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:45:54] [Server thread/INFO]: Preparing level "world"
-[12:45:55] [Server thread/INFO]: Loading 0 persistent chunks...
-[12:45:55] [Server thread/INFO]: Preparing spawn area: 100%
-[12:45:55] [Server thread/INFO]: Time elapsed: 45 ms
-[12:45:55] [Server thread/INFO]: Done (0.302s)! For help, type "help"
-[12:45:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:45:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12:45:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12:45:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:45:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:45:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:45:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[12:46:04] [Server thread/INFO]: Tony[/127.0.0.1:51343] logged in with entity id 65 at (381.4888750437365, 75.0, 1293.4069848766653)
-[12:46:04] [Server thread/INFO]: Tony joined the game
-[12:47:07] [Server thread/INFO]: [Tony: Gave 10 experience levels to Tony]
-[12:50:13] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[12:50:30] [Server thread/INFO]: [Tony: Gave 64 [Andesite Stairs] to Tony]
-[12:53:41] [Server thread/INFO]: [Tony: Gave 4 [Campfire] to Tony]
-[12:54:22] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
-[12:55:10] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[12:55:12] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[12:55:13] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[12:55:49] [Server thread/INFO]: [Tony: Gave 64 [Andesite Wall] to Tony]
-[12:59:39] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[13:03:21] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
-[13:04:04] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[13:04:04] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[13:04:42] [Server thread/INFO]: [Tony: Gave 128 [Oak Log] to Tony]
-[13:08:26] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[13:13:35] [Server thread/INFO]: [Tony: Gave 2 [Oak Trapdoor] to Tony]
-[13:17:24] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[13:17:41] [Server thread/INFO]: [Tony: Gave 10 [Oak Slab] to Tony]
-[13:18:27] [Server thread/INFO]: [Tony: Gave 6 [Oak Trapdoor] to Tony]
-[13:22:25] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[13:22:47] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[13:23:09] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
-[13:23:54] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[13:23:55] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[13:26:02] [Server thread/INFO]: [Tony: Gave 32 [Spruce Fence Gate] to Tony]
-[13:26:41] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[13:27:17] [Server thread/INFO]: [Tony: Gave 1 [Spruce Button] to Tony]
-[13:27:27] [Server thread/INFO]: [Tony: Gave 9 [Spruce Button] to Tony]
-[13:27:40] [Server thread/INFO]: [Tony: Gave 32 [Spruce Fence] to Tony]
-[13:28:24] [Server thread/INFO]: [Tony: Gave 64 [Spruce Fence] to Tony]
-[13:31:47] [Server thread/INFO]: [Tony: Gave 32 [Spruce Trapdoor] to Tony]
-[13:36:36] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[13:37:57] [Server thread/INFO]: [Tony: Gave 128 [Stone] to Tony]
-[13:40:16] [Server thread/INFO]: [Tony: Gave 1 [Iron Shovel] to Tony]
-[13:41:06] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[13:41:22] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[13:42:21] [Server thread/INFO]: [Tony: Gave 64 [Stone] to Tony]
-[13:42:28] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[13:42:45] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[13:44:02] [Server thread/INFO]: [Tony: Set the weather to clear]
-[13:44:05] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[13:44:35] [Server thread/INFO]: [Tony: Gave 1 [Chest] to Tony]
-[13:45:05] [Server thread/INFO]: [Tony: Gave 10 [Lantern] to Tony]
-[13:45:49] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
-[13:53:19] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[14:02:21] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[14:03:55] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[14:05:10] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
-[14:05:11] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[14:05:12] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[14:05:15] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[14:05:33] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[14:06:16] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[14:06:35] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[14:07:54] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[14:07:56] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[14:08:17] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[14:08:23] [Server thread/INFO]: Tony lost connection: Disconnected
-[14:08:23] [Server thread/INFO]: Tony left the game
+[18:40:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/GitHub/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:40:26] [main/INFO]: Compatibility level set to JAVA_17
+[18:40:26] [main/INFO]: Compatibility level set to JAVA_25
+[18:40:26] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:40:26] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 0 override(s) found.
+[18:40:27] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[18:40:38] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:40:41] [main/INFO]: Loaded 1515 recipes
+[18:40:41] [main/INFO]: Loaded 1617 advancements
+[18:40:41] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.345 ms
+[18:40:41] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[18:40:41] [Server thread/INFO]: Loading properties
+[18:40:41] [Server thread/INFO]: Default game type: SURVIVAL
+[18:40:41] [Server thread/INFO]: Generating keypair
+[18:40:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:40:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:40:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:40:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:40:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:40:42] [Server thread/INFO]: Preparing level "world"
+[18:40:42] [Server thread/INFO]: Loading 0 persistent chunks...
+[18:40:42] [Server thread/INFO]: Preparing spawn area: 100%
+[18:40:42] [Server thread/INFO]: Time elapsed: 68 ms
+[18:40:42] [Server thread/INFO]: Done (0.623s)! For help, type "help"
+[18:40:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:40:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:40:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:40:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:40:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:40:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:40:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:41:18] [Server thread/INFO]: leomod[/127.0.0.1:56750] logged in with entity id 24 at (522.0722352169931, 64.0625, 1148.563348075415)
+[18:41:18] [Server thread/INFO]: leomod joined the game
+[18:41:27] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[18:41:54] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[18:42:00] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[18:44:05] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[18:45:39] [Server thread/INFO]: [leomod: Gave 40 [Item Frame] to leomod]
+[18:49:39] [Server thread/INFO]: [leomod: Gave 60 [Item Frame] to leomod]
+[18:52:14] [Server thread/INFO]: Tony[/26.86.243.48:64105] logged in with entity id 2436 at (380.64099341637285, 75.5, 1295.6067109484302)
+[18:52:14] [Server thread/INFO]: Tony joined the game
+[18:52:56] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[18:53:11] [Server thread/WARN]: Tony moved too quickly! 0.4917152923745789,0.0,10.801221345105205
+[18:53:16] [Server thread/INFO]: [Tony: Set own game mode to Adventure Mode]
+[18:53:29] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[18:53:37] [Server thread/WARN]: Tony moved too quickly! 8.10803058732904,0.0,-7.235991804375544
+[18:53:51] [Server thread/INFO]: [Tony: Set own game mode to Adventure Mode]
+[18:54:37] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[18:56:20] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[18:56:30] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[19:06:38] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[19:06:39] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[19:07:57] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
+[19:08:08] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[19:08:11] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[19:08:19] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[19:15:45] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[19:15:48] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[19:16:07] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[19:16:18] [Server thread/INFO]: [Not Secure] <leomod> porca
+[19:16:29] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[19:16:29] [Server thread/INFO]: [Not Secure] <Tony> con morris diceva che se volevi rifarti i lcoso sotto in creative te lo concediam
+[19:16:45] [Server thread/INFO]: [Not Secure] <leomod> sisi avevo capito forse faccio dopo
+[19:17:02] [Server thread/INFO]: [Not Secure] <Tony> top se ti servono i libri prenditeli da noi nel caso
+[19:17:08] [Server thread/INFO]: [Not Secure] <Tony> senza abusare
+[19:17:27] [Server thread/INFO]: [Not Secure] <Tony> io vado a mangiare che poi dopo cena sulle 9 vado a rovarè
+[19:17:36] [Server thread/INFO]: [Not Secure] <Tony> per vedere adv
+[19:17:38] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[19:17:38] [Server thread/INFO]: [Not Secure] <leomod> vabbe più che altro volevo quelli utili
+[19:17:43] [Server thread/WARN]: Tony moved too quickly! -6.420461547142622,0.0,8.750648160097171
+[19:17:47] [Server thread/WARN]: Tony moved too quickly! -5.181668321160885,0.0,8.950245217188012
+[19:17:49] [Server thread/WARN]: Tony moved too quickly! -6.531291041984616,0.0,7.733416672988369
+[19:17:52] [Server thread/WARN]: Tony moved too quickly! -6.75352086506615,0.0,8.444475810626727
+[19:17:57] [Server thread/WARN]: Tony moved too quickly! -5.14200085572503,0.16961534172973813,9.257415207795475
+[19:18:03] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[19:18:09] [Server thread/INFO]: Tony lost connection: Disconnected
+[19:18:09] [Server thread/INFO]: Tony left the game
+[19:21:17] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[19:21:24] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[19:48:36] [Server thread/INFO]: leomod lost connection: Disconnected
+[19:48:36] [Server thread/INFO]: leomod left the game
+[19:49:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:47:44] [Server thread/INFO]: leomod[/127.0.0.1:50528] logged in with entity id 16777 at (582.2152976122836, 70.77008351320971, 1064.1629115755918)
+[20:47:44] [Server thread/INFO]: leomod joined the game
+[21:32:41] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[21:33:43] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[21:36:44] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[21:40:44] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[22:15:05] [Server thread/INFO]: leomod has made the advancement [Crafting a New Look]
+[22:15:52] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[22:16:34] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[22:16:44] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[22:16:52] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[22:17:02] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
+[22:17:10] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[22:17:23] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
+[22:17:25] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[22:17:33] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[22:19:54] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[22:20:11] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[22:20:43] [Server thread/INFO]: leomod lost connection: Disconnected
+[22:20:43] [Server thread/INFO]: leomod left the game
