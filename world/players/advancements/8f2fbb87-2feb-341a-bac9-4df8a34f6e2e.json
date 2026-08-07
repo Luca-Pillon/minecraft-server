@@ -518,6 +518,7 @@
       "spider_eye": "2026-07-07 23:02:25 +0200",
       "cooked_chicken": "2026-07-07 22:35:34 +0200",
       "rabbit_stew": "2026-07-20 16:53:35 +0200",
+      "poisonous_potato": "2026-08-07 10:40:54 +0200",
       "cooked_salmon": "2026-07-07 23:29:50 +0200",
       "carrot": "2026-07-07 22:38:13 +0200"
     },
@@ -5678,15 +5679,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jungle_shelf": {
-    "criteria": {
-      "has_stripped_jungle_log": "2026-08-05 23:35:15 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2026-08-05 22:16:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_shelf": {
+    "criteria": {
+      "has_stripped_jungle_log": "2026-08-05 23:35:15 +0200"
     },
     "done": true
   },
@@ -5699,6 +5700,18 @@
   "minecraft:recipes/building_blocks/stripped_jungle_wood": {
     "criteria": {
       "has_log": "2026-08-05 23:35:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
+    "criteria": {
+      "pot_crafted_using_only_sherds": "2026-08-07 10:32:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_moss_carpet": {
+    "criteria": {
+      "has_pale_moss_block": "2026-08-07 10:59:09 +0200"
     },
     "done": true
   },
