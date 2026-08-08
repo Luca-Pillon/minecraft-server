@@ -6193,6 +6193,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2026-08-08 11:07:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2026-08-08 12:06:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_shelf": {
     "criteria": {
       "has_stripped_spruce_log": "2026-08-08 12:46:02 +0200"
@@ -6208,18 +6220,6 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2026-08-08 12:46:02 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
-    "criteria": {
-      "has_cyan_terracotta": "2026-08-08 12:06:11 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
-    "criteria": {
-      "has_mangrove_roots": "2026-08-08 11:07:20 +0200"
     },
     "done": true
   },
