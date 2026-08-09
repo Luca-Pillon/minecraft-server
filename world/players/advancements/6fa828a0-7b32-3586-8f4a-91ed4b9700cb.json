@@ -6238,6 +6238,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2026-08-09 18:55:22 +0200",
       "minecraft:axolotl": "2026-08-08 16:37:14 +0200"
     },
     "done": false
@@ -6266,12 +6267,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2026-08-09 17:05:38 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2026-08-09 17:04:14 +0200"
@@ -6281,6 +6276,18 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2026-08-09 17:04:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2026-08-09 17:05:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2026-08-09 19:10:37 +0200"
     },
     "done": true
   },
