@@ -5829,5 +5829,77 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_lightning_rod": "2026-08-10 14:28:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2026-08-10 14:55:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2026-08-10 14:55:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2026-08-10 14:55:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2026-08-10 14:55:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-08-10 14:55:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wolf_armor_dyed": {
+    "criteria": {
+      "has_wolf_armor": "2026-08-10 14:31:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-08-10 14:55:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2026-08-10 14:55:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2026-08-10 14:55:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-08-10 14:55:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2026-08-10 14:55:55 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 4790
 }
