@@ -542,6 +542,7 @@
       "sweet_berries": "2026-07-07 22:21:00 +0200",
       "salmon": "2026-07-28 20:54:58 +0200",
       "cooked_beef": "2026-07-07 22:33:42 +0200",
+      "chorus_fruit": "2026-08-14 22:07:06 +0200",
       "baked_potato": "2026-07-10 22:18:54 +0200",
       "melon_slice": "2026-07-08 16:26:35 +0200",
       "beetroot": "2026-07-10 22:18:35 +0200",
@@ -2126,26 +2127,29 @@
       "minecraft:blaze": "2026-07-11 16:01:46 +0200",
       "minecraft:pillager": "2026-07-13 15:12:20 +0200",
       "minecraft:skeleton": "2026-07-08 15:57:45 +0200",
+      "minecraft:ghast": "2026-07-11 16:28:21 +0200",
+      "minecraft:hoglin": "2026-07-21 22:19:51 +0200",
+      "minecraft:zombie_horse": "2026-07-10 14:00:15 +0200",
+      "minecraft:breeze": "2026-07-20 15:31:26 +0200",
+      "minecraft:vindicator": "2026-08-01 14:52:28 +0200",
+      "minecraft:magma_cube": "2026-07-11 15:19:25 +0200",
+      "minecraft:spider": "2026-07-08 16:41:02 +0200",
+      "minecraft:creeper": "2026-07-10 15:22:35 +0200",
+      "minecraft:slime": "2026-07-20 15:23:49 +0200",
       "minecraft:phantom": "2026-07-22 19:33:04 +0200",
       "minecraft:zombified_piglin": "2026-07-08 16:24:07 +0200",
       "minecraft:witch": "2026-08-01 14:29:20 +0200",
       "minecraft:wither_skeleton": "2026-07-11 16:39:27 +0200",
-      "minecraft:ghast": "2026-07-11 16:28:21 +0200",
-      "minecraft:hoglin": "2026-07-21 22:19:51 +0200",
+      "minecraft:ender_dragon": "2026-08-14 21:46:05 +0200",
+      "minecraft:shulker": "2026-08-14 22:06:33 +0200",
       "minecraft:cave_spider": "2026-07-26 14:59:36 +0200",
       "minecraft:piglin": "2026-08-05 21:48:36 +0200",
-      "minecraft:zombie_horse": "2026-07-10 14:00:15 +0200",
-      "minecraft:breeze": "2026-07-20 15:31:26 +0200",
-      "minecraft:vindicator": "2026-08-01 14:52:28 +0200",
       "minecraft:silverfish": "2026-07-20 15:20:03 +0200",
       "minecraft:stray": "2026-07-20 15:19:36 +0200",
-      "minecraft:magma_cube": "2026-07-11 15:19:25 +0200",
-      "minecraft:spider": "2026-07-08 16:41:02 +0200",
+      "minecraft:enderman": "2026-08-14 21:56:35 +0200",
       "minecraft:zombie": "2026-07-08 15:53:51 +0200",
-      "minecraft:creeper": "2026-07-10 15:22:35 +0200",
       "minecraft:drowned": "2026-07-25 22:04:52 +0200",
-      "minecraft:zombie_villager": "2026-07-10 15:36:46 +0200",
-      "minecraft:slime": "2026-07-20 15:23:49 +0200"
+      "minecraft:zombie_villager": "2026-07-10 15:36:46 +0200"
     },
     "done": false
   },
@@ -6404,6 +6408,270 @@
   "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2026-08-11 22:26:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-08-14 21:37:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-08-14 21:37:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-08-14 21:37:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2026-08-14 21:37:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-08-14 21:37:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-08-14 21:37:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-08-14 21:37:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2026-08-14 22:22:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2026-08-14 21:46:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_end_stone_bricks": "2026-08-14 22:22:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-14 22:27:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2026-08-14 22:05:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-14 22:27:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-14 22:27:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2026-08-14 21:40:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-14 22:27:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2026-08-14 22:22:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-14 22:27:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_end_stone_bricks": "2026-08-14 22:22:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-14 22:27:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-14 22:27:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-14 22:27:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2026-08-14 22:05:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-14 22:27:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-14 22:27:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2026-08-14 21:51:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-14 22:27:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-14 22:27:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-14 22:27:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-14 22:27:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2026-08-14 22:05:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_end_stone_bricks": "2026-08-14 22:22:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-14 22:27:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-08-14 22:05:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2026-08-14 21:49:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-08-14 22:20:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2026-08-14 22:05:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2026-08-14 22:05:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-08-14 22:05:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2026-08-14 22:22:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-14 22:27:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2026-08-14 22:05:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2026-08-14 22:05:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2026-08-14 22:05:41 +0200"
     },
     "done": true
   },
