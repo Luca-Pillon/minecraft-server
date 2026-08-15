@@ -6729,81 +6729,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/dye_light_gray_harness": {
-    "criteria": {
-      "has_needed_dye": "2026-08-15 15:08:35 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
-    "criteria": {
-      "has_vine": "2026-08-15 15:15:17 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_light_gray_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-08-15 15:08:35 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_brown_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-08-15 15:06:52 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dye_gray_bed": {
     "criteria": {
       "has_needed_dye": "2026-08-15 14:34:25 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/light_gray_bundle": {
-    "criteria": {
-      "has_light_gray_dye": "2026-08-15 15:08:35 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-08-15 15:03:54 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_cyan_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-08-15 15:03:54 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brown_bundle": {
-    "criteria": {
-      "has_brown_dye": "2026-08-15 15:06:52 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_cyan_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-08-15 15:03:54 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/dye_cyan_harness": {
-    "criteria": {
-      "has_needed_dye": "2026-08-15 15:03:54 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_candle": {
-    "criteria": {
-      "has_brown_dye": "2026-08-15 15:06:52 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-08-15 15:06:52 +0200"
     },
     "done": true
   },
@@ -6813,57 +6741,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
-    "criteria": {
-      "has_vine": "2026-08-15 15:15:17 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dye_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2026-08-15 14:34:25 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_candle": {
-    "criteria": {
-      "has_cyan_dye": "2026-08-15 15:03:54 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
-    "criteria": {
-      "has_vines": "2026-08-15 15:15:17 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-08-15 15:08:35 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_brown_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-08-15 15:06:52 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_light_gray_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-08-15 15:08:35 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_candle": {
-    "criteria": {
-      "has_light_gray_dye": "2026-08-15 15:08:35 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/dye_brown_harness": {
-    "criteria": {
-      "has_needed_dye": "2026-08-15 15:06:52 +0200"
     },
     "done": true
   },
@@ -6879,9 +6759,135 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-08-15 15:03:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-08-15 15:03:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-08-15 15:03:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_cyan_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-08-15 15:03:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2026-08-15 15:03:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/cyan_bundle": {
     "criteria": {
       "has_cyan_dye": "2026-08-15 15:03:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-08-15 15:06:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brown_bundle": {
+    "criteria": {
+      "has_brown_dye": "2026-08-15 15:06:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2026-08-15 15:06:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-08-15 15:06:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-08-15 15:06:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_brown_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-08-15 15:06:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_light_gray_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-08-15 15:08:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-08-15 15:08:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/light_gray_bundle": {
+    "criteria": {
+      "has_light_gray_dye": "2026-08-15 15:08:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-08-15 15:08:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-08-15 15:08:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2026-08-15 15:08:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2026-08-15 15:15:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2026-08-15 15:15:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
+    "criteria": {
+      "has_vines": "2026-08-15 15:15:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/place_dried_ghast_in_water": {
+    "criteria": {
+      "place_dried_ghast_in_water": "2026-08-15 15:51:01 +0200"
     },
     "done": true
   },
