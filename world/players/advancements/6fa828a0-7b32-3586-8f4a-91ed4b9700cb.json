@@ -6975,5 +6975,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/wax_on": {
+    "criteria": {
+      "wax_on": "2026-08-16 15:22:41 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 4790
 }
