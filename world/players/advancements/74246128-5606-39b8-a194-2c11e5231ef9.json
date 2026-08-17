@@ -6119,18 +6119,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_closed_eyeblossom": {
-    "criteria": {
-      "has_closed_eyeblossom": "2026-08-17 14:31:08 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_golden_dandelion": {
-    "criteria": {
-      "has_golden_dandelion": "2026-08-17 14:33:38 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-08-17 14:20:14 +0200"
@@ -6179,18 +6167,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
-    "criteria": {
-      "has_closed_eyeblossom": "2026-08-17 14:31:08 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_golden_dandelion": {
-    "criteria": {
-      "has_golden_dandelion": "2026-08-17 14:33:38 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-08-17 14:20:14 +0200"
@@ -6200,6 +6176,30 @@
   "minecraft:recipes/decorations/brown_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-08-17 14:20:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2026-08-17 14:31:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2026-08-17 14:31:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_golden_dandelion": {
+    "criteria": {
+      "has_golden_dandelion": "2026-08-17 14:33:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_golden_dandelion": {
+    "criteria": {
+      "has_golden_dandelion": "2026-08-17 14:33:38 +0200"
     },
     "done": true
   },
