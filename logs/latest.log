@@ -1,6 +1,6 @@
-[20:36:01] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
-[20:36:01] [main/INFO]: Mappings not present!
-[20:36:01] [main/INFO]: Loading 46 mods:
+[10:14:13] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
+[10:14:13] [main/INFO]: Mappings not present!
+[10:14:13] [main/INFO]: Loading 46 mods:
 	- chunky 1.5.3
 	- entityculling 1.10.2
 	   |-- transition 1.0.19
@@ -54,385 +54,68 @@
 	- java 25
 	- lithium 0.24.4+mc26.1.2
 	- minecraft 26.1.2
-[20:36:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/GitHub/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:36:07] [main/INFO]: Compatibility level set to JAVA_17
-[20:36:07] [main/INFO]: Compatibility level set to JAVA_25
-[20:36:07] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:36:07] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 0 override(s) found.
-[20:36:09] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
-[20:36:21] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[20:36:23] [main/INFO]: Loaded 1515 recipes
-[20:36:23] [main/INFO]: Loaded 1617 advancements
-[20:36:24] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.208 ms
-[20:36:24] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[20:36:24] [Server thread/INFO]: Loading properties
-[20:36:24] [Server thread/INFO]: Default game type: SURVIVAL
-[20:36:24] [Server thread/INFO]: Generating keypair
-[20:36:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:36:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:36:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:36:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:36:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:36:24] [Server thread/INFO]: Preparing level "world"
-[20:36:24] [Server thread/INFO]: Loading 0 persistent chunks...
-[20:36:25] [Server thread/INFO]: Preparing spawn area: 100%
-[20:36:25] [Server thread/INFO]: Time elapsed: 68 ms
-[20:36:25] [Server thread/INFO]: Done (0.600s)! For help, type "help"
-[20:36:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:36:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:36:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:36:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:36:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:36:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:36:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[20:37:00] [Server thread/INFO]: leomod[/127.0.0.1:50581] logged in with entity id 4 at (578.8435426041952, 82.27661682450804, 1349.5800416300413)
-[20:37:00] [Server thread/INFO]: leomod joined the game
-[20:38:16] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[20:38:59] [Server thread/INFO]: [leomod: Set the weather to clear]
-[20:39:01] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[20:39:07] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[20:49:43] [Server thread/INFO]: Tony[/26.86.243.48:61838] logged in with entity id 3534 at (380.4981638707951, 70.0, 1279.604696940505)
-[20:49:43] [Server thread/INFO]: Tony joined the game
-[20:50:26] [Server thread/INFO]: Villager Villager['Farmer'/319, l='ServerLevel[world]', x=563.41, y=67.59, z=1182.49] died, message: 'Farmer was slain by Zombie'
-[20:56:20] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[21:04:59] [Server thread/INFO]: MECIULLO[/26.158.127.155:57787] logged in with entity id 8516 at (372.51638517395594, 68.0, 1285.3070985570478)
-[21:04:59] [Server thread/INFO]: MECIULLO joined the game
-[21:06:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[21:06:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5055ms or 101 ticks behind
-[21:06:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3716ms or 74 ticks behind
-[21:07:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2299ms or 45 ticks behind
-[21:07:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2977ms or 59 ticks behind
-[21:07:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3378ms or 67 ticks behind
-[21:07:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3620ms or 72 ticks behind
-[21:08:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[21:08:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[21:08:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
-[21:09:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
-[21:09:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3199ms or 63 ticks behind
-[21:09:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3423ms or 68 ticks behind
-[21:09:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
-[21:10:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2804ms or 56 ticks behind
-[21:10:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=573, y=69, z=1310} BlockPos{x=575, y=68, z=1309}
-[21:10:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=573, y=69, z=1310} BlockPos{x=575, y=68, z=1309}
-[21:10:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=573, y=69, z=1310} BlockPos{x=575, y=68, z=1309}
-[21:10:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=573, y=69, z=1310} BlockPos{x=575, y=68, z=1309}
-[21:10:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=573, y=69, z=1310} BlockPos{x=575, y=68, z=1309}
-[21:10:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=573, y=69, z=1310} BlockPos{x=575, y=68, z=1309}
-[21:10:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=573, y=69, z=1310} BlockPos{x=575, y=68, z=1309}
-[21:10:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=573, y=69, z=1310} BlockPos{x=575, y=68, z=1309}
-[21:10:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=573, y=69, z=1310} BlockPos{x=575, y=68, z=1309}
-[21:10:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=573, y=69, z=1310} BlockPos{x=575, y=68, z=1309}
-[21:10:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=573, y=69, z=1310} BlockPos{x=575, y=68, z=1309}
-[21:10:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3580ms or 71 ticks behind
-[21:10:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4272ms or 85 ticks behind
-[21:11:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[21:11:22] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=548, y=68, z=1303} BlockPos{x=549, y=69, z=1302}
-[21:11:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4691ms or 93 ticks behind
-[21:11:41] [Server thread/WARN]: Tony moved too quickly! 8.217221117122165,-5.792900290626676,2.2114403826815305
-[21:11:41] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=548, y=68, z=1303} BlockPos{x=551, y=69, z=1303}
-[21:11:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4444ms or 88 ticks behind
-[21:11:59] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=547, y=68, z=1298} BlockPos{x=546, y=69, z=1301}
-[21:12:10] [Server thread/WARN]: Tony moved too quickly! 9.94744533770239,-1.3693736602695026,-0.5066201688068759
-[21:12:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2832ms or 56 ticks behind
-[21:12:18] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=549, y=68, z=1290} BlockPos{x=549, y=69, z=1294}
-[21:12:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[21:12:33] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=551, y=68, z=1293} BlockPos{x=549, y=69, z=1293}
-[21:13:04] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[21:13:09] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=554, y=68, z=1294} BlockPos{x=554, y=69, z=1293}
-[21:13:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[21:13:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2720ms or 54 ticks behind
-[21:13:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[21:14:00] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:14:02] [Server thread/WARN]: Tony moved too quickly! -7.767506337801251,0.0,-7.521232091646652
-[21:14:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3691ms or 73 ticks behind
-[21:14:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3851ms or 77 ticks behind
-[21:14:44] [Server thread/WARN]: Tony moved too quickly! -8.890159348906195,0.0,-6.149260961282607
-[21:14:47] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:14:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5697ms or 113 ticks behind
-[21:15:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3362ms or 67 ticks behind
-[21:15:16] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=555, y=66, z=1312} BlockPos{x=556, y=69, z=1309}
-[21:15:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2630ms or 52 ticks behind
-[21:15:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3416ms or 68 ticks behind
-[21:16:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3862ms or 77 ticks behind
-[21:16:16] [Server thread/WARN]: Tony moved too quickly! -3.1151766070108806,-1.044812420399012,-9.742326676036328
-[21:16:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4206ms or 84 ticks behind
-[21:16:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
-[21:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[21:17:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2173ms or 43 ticks behind
-[21:17:32] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=563, y=68, z=1307} BlockPos{x=563, y=69, z=1309}
-[21:17:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
-[21:17:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[21:19:16] [Server thread/INFO]: [Tony: Gave 114 [Scaffolding] to Tony]
-[21:20:36] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=598, y=68, z=1308} BlockPos{x=599, y=69, z=1303}
-[21:23:15] [Server thread/WARN]: Tony moved too quickly! -13.37338535338165,-4.556085998631943,-11.115083969688158
-[21:23:28] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:23:32] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:23:40] [Server thread/WARN]: Tony moved too quickly! -16.04060788465432,-1.9410430607319284,-8.831144721295232
-[21:23:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[21:23:54] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:24:17] [Server thread/INFO]: MECIULLO lost connection: Timed out
-[21:24:17] [Server thread/INFO]: MECIULLO left the game
-[21:24:17] [Server thread/INFO]: Tony lost connection: Timed out
-[21:24:17] [Server thread/INFO]: Tony left the game
-[21:24:32] [Server thread/INFO]: MECIULLO[/26.158.127.155:54445] logged in with entity id 19271 at (561.51773126193, 84.16610926093821, 1304.1193201114916)
-[21:24:33] [Server thread/INFO]: MECIULLO joined the game
-[21:25:03] [Server thread/WARN]: MECIULLO moved wrongly!
-[21:25:14] [Server thread/INFO]: Tony[/26.86.243.48:50312] logged in with entity id 20220 at (379.86083375769704, 76.01851646976077, 1286.71892742377)
-[21:25:15] [Server thread/INFO]: Tony joined the game
-[21:25:21] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:25:30] [Server thread/INFO]: Villager Villager['Farmer'/318, l='ServerLevel[world]', x=574.50, y=65.56, z=1181.70] died, message: 'Farmer was slain by Zombie'
-[21:25:36] [Server thread/INFO]: [Not Secure] <Tony> è in sardegna
-[21:26:53] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[21:27:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[21:27:31] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:27:41] [Server thread/WARN]: Tony moved too quickly! 1.8157840062000332,4.500000178813934,8.888943223542356
-[21:28:04] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:28:49] [Server thread/INFO]: [Tony: Gave 2 [Hopper] to Tony]
-[21:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[21:31:45] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[21:31:49] [Server thread/INFO]: [Tony: Set the weather to clear]
-[21:33:04] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:33:09] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:35:42] [Server thread/WARN]: MECIULLO moved too quickly! -1.1090828436556421,-4.14097686373205,-16.81340698934332
-[21:39:41] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[21:40:32] [Server thread/INFO]: [Tony: Gave 40 [Oak Trapdoor] to Tony]
-[21:40:37] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[21:41:43] [Server thread/INFO]: [Tony: Gave 40 [Oak Trapdoor] to Tony]
-[21:42:00] [Server thread/WARN]: MECIULLO moved too quickly! 5.348232813400159,12.798524460331578,12.294547968544293
-[21:42:49] [Server thread/WARN]: MECIULLO moved too quickly! -2.240702381905294,-6.294888347376542,-17.011013155810588
-[21:42:54] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:42:56] [Server thread/WARN]: MECIULLO moved too quickly! 9.132012048733941,12.96664994977894,10.375104014883618
-[21:43:10] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:43:14] [Server thread/WARN]: Tony was kicked for floating too long!
-[21:43:14] [Server thread/INFO]: Tony lost connection: Flying is not enabled on this server
-[21:43:14] [Server thread/INFO]: Tony left the game
-[21:43:31] [Server thread/INFO]: Tony[/26.86.243.48:49217] logged in with entity id 28658 at (474.1815709217883, 83.93115793079308, 1432.5175421234806)
-[21:43:31] [Server thread/INFO]: Tony joined the game
-[21:43:40] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:43:46] [Server thread/INFO]: Villager Villager['Villager'/20525, l='ServerLevel[world]', x=531.70, y=56.00, z=1476.30] died, message: 'Villager was slain by Zombie'
-[21:43:53] [Server thread/INFO]: Villager Villager['Villager'/20520, l='ServerLevel[world]', x=528.70, y=47.00, z=1478.92] died, message: 'Villager was slain by Zombie'
-[21:43:54] [Server thread/INFO]: Villager Villager['Villager'/20524, l='ServerLevel[world]', x=532.70, y=67.00, z=1475.30] died, message: 'Villager was slain by Zombie'
-[21:43:59] [Server thread/INFO]: Villager Villager['Villager'/20521, l='ServerLevel[world]', x=534.51, y=41.00, z=1482.42] died, message: 'Villager was slain by Zombie'
-[21:44:05] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:44:09] [Server thread/WARN]: MECIULLO moved too quickly! -0.2773222799831956,18.1396779485609,2.088756662144533
-[21:44:11] [Server thread/WARN]: Tony was kicked for floating too long!
-[21:44:11] [Server thread/INFO]: Tony lost connection: Flying is not enabled on this server
-[21:44:11] [Server thread/INFO]: Tony left the game
-[21:44:51] [Server thread/INFO]: Tony[/26.86.243.48:49601] logged in with entity id 29494 at (615.2742584652741, 210.0223324649189, 1480.1429664194982)
-[21:44:51] [Server thread/INFO]: Tony joined the game
-[21:46:41] [Server thread/WARN]: MECIULLO moved too quickly! -11.582726431422998,-2.4345631938273726,-13.043753880720715
-[21:46:59] [Server thread/INFO]: [Tony: Gave 128 [Oak Trapdoor] to Tony]
-[21:50:21] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[21:50:47] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[21:51:35] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[21:51:39] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[21:51:58] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[21:52:26] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[21:55:55] [Server thread/WARN]: Tony moved too quickly! 2.1236963699578837,-17.890730657187476,2.5549603093868427
-[21:55:59] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:56:00] [Server thread/INFO]: [leomod: Gave 200 [Acacia Trapdoor] to leomod]
-[21:56:13] [Server thread/WARN]: Tony moved too quickly! -6.242562175309331,6.921753875045766,3.818287930178485
-[21:56:15] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:57:22] [Server thread/WARN]: MECIULLO moved too quickly! -17.454055619867972,0.21506656850399963,-5.450344947949816
-[21:57:52] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[21:57:54] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[21:58:48] [Server thread/WARN]: MECIULLO moved too quickly! 18.198480239762944,0.9993079798865807,-0.6190299346137635
-[21:58:56] [Server thread/WARN]: MECIULLO moved too quickly! 16.659881590766986,4.582446514577157,5.307658717909817
-[21:59:25] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[21:59:31] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[21:59:33] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:59:40] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:59:43] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:night]
-[22:00:02] [Server thread/WARN]: MECIULLO moved too quickly! -17.169886268783046,-1.8058196752551936,-3.4529667016627172
-[22:00:06] [Server thread/INFO]: Villager Villager['Villager'/19309, l='ServerLevel[world]', x=566.30, y=72.00, z=1497.30] died, message: 'Villager was slain by Zombie'
-[22:00:13] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:00:24] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:00:28] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:00:44] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:01:09] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:01:18] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:02:09] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:02:22] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:02:29] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:03:00] [Server thread/INFO]: [Tony: Gave 4 [Campfire] to Tony]
-[22:03:35] [Server thread/INFO]: Villager Villager['Farmer'/31758, l='ServerLevel[world]', x=557.95, y=64.00, z=1186.49] died, message: 'Farmer was slain by Zombie'
-[22:04:05] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:04:13] [Server thread/WARN]: Tony moved too quickly! -1.7197444151380523,0.0,10.203334092803516
-[22:04:32] [Server thread/WARN]: Tony moved too quickly! 9.517638871367922,4.865564692874898,2.055833035035903
-[22:04:32] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:04:34] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:04:37] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:04:45] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:04:58] [Server thread/WARN]: Tony moved too quickly! 16.219037508000383,-6.246280766234946,-2.2470850045936004
-[22:05:00] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:05:08] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:05:10] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:05:16] [Server thread/WARN]: Tony moved too quickly! -7.539937161869375,-3.749999195291224,5.6170512728272115
-[22:05:41] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:06:07] [Server thread/INFO]: [Tony: Gave 1 [Soul Sand] to Tony]
-[22:06:11] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:06:18] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:06:23] [Server thread/WARN]: Tony was kicked for floating too long!
-[22:06:23] [Server thread/INFO]: Tony lost connection: Flying is not enabled on this server
-[22:06:23] [Server thread/INFO]: Tony left the game
-[22:06:41] [Server thread/INFO]: Tony[/26.86.243.48:57464] logged in with entity id 41980 at (500.2301683176932, 67.75000006952344, 1444.7823469110451)
-[22:06:41] [Server thread/INFO]: Tony joined the game
-[22:06:47] [Server thread/INFO]: Tony lost connection: Disconnected
-[22:06:47] [Server thread/INFO]: Tony left the game
-[22:06:52] [Server thread/INFO]: Tony[/26.86.243.48:58795] logged in with entity id 42279 at (500.2301683176932, 67.75000006952344, 1444.7823469110451)
-[22:06:52] [Server thread/INFO]: Tony joined the game
-[22:07:23] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:07:28] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:08:37] [Server thread/INFO]: Villager Villager['Villager'/31909, l='ServerLevel[world]', x=586.86, y=65.59, z=1133.39] died, message: 'Villager was slain by leomod using [Ryūjin Jakka]'
-[22:09:02] [Server thread/INFO]: Villager Villager['Villager'/20236, l='ServerLevel[world]', x=538.94, y=67.00, z=1434.36] died, message: 'Villager was slain by Tony'
-[22:09:03] [Server thread/INFO]: Villager Villager['Villager'/20247, l='ServerLevel[world]', x=537.99, y=67.03, z=1435.58] died, message: 'Villager was slain by Tony'
-[22:09:05] [Server thread/INFO]: Villager Villager['Villager'/20270, l='ServerLevel[world]', x=538.30, y=67.00, z=1433.95] died, message: 'Villager was slain by Tony'
-[22:09:05] [Server thread/INFO]: Villager Villager['Villager'/20282, l='ServerLevel[world]', x=538.77, y=67.00, z=1433.91] died, message: 'Villager was slain by Tony'
-[22:09:06] [Server thread/INFO]: Villager Villager['Villager'/20248, l='ServerLevel[world]', x=537.81, y=67.00, z=1434.30] died, message: 'Villager was slain by Tony'
-[22:09:06] [Server thread/INFO]: Villager Villager['Villager'/20242, l='ServerLevel[world]', x=538.30, y=67.00, z=1433.30] died, message: 'Villager was slain by Tony'
-[22:09:07] [Server thread/INFO]: Villager Villager['Villager'/20237, l='ServerLevel[world]', x=538.30, y=67.00, z=1434.02] died, message: 'Villager was slain by Tony'
-[22:09:08] [Server thread/INFO]: Villager Villager['Villager'/20246, l='ServerLevel[world]', x=537.30, y=67.03, z=1435.19] died, message: 'Villager was slain by Tony'
-[22:09:08] [Server thread/INFO]: Villager Villager['Villager'/20249, l='ServerLevel[world]', x=538.23, y=67.21, z=1435.62] died, message: 'Villager was slain by Tony'
-[22:09:10] [Server thread/INFO]: Villager Villager['Villager'/20254, l='ServerLevel[world]', x=538.11, y=67.00, z=1434.30] died, message: 'Villager was slain by Tony'
-[22:09:10] [Server thread/INFO]: Villager Villager['Villager'/34097, l='ServerLevel[world]', x=539.12, y=67.14, z=1434.48] died, message: 'Villager was slain by Tony'
-[22:09:11] [Server thread/INFO]: Villager Villager['Villager'/20226, l='ServerLevel[world]', x=537.30, y=67.00, z=1434.30] died, message: 'Villager was slain by Tony'
-[22:09:11] [Server thread/INFO]: Villager Villager['Villager'/20266, l='ServerLevel[world]', x=538.79, y=67.15, z=1434.62] died, message: 'Villager was slain by Tony'
-[22:09:12] [Server thread/INFO]: Villager Villager['Villager'/20281, l='ServerLevel[world]', x=537.30, y=67.00, z=1435.14] died, message: 'Villager was slain by Tony'
-[22:09:12] [Server thread/INFO]: Villager Villager['Villager'/20284, l='ServerLevel[world]', x=537.88, y=67.00, z=1435.14] died, message: 'Villager was slain by Tony'
-[22:09:13] [Server thread/INFO]: Villager Villager['Villager'/20253, l='ServerLevel[world]', x=538.30, y=67.00, z=1433.30] died, message: 'Villager was slain by Tony'
-[22:09:15] [Server thread/INFO]: Villager Villager['Villager'/20257, l='ServerLevel[world]', x=537.88, y=67.00, z=1434.30] died, message: 'Villager was slain by Tony'
-[22:09:15] [Server thread/INFO]: Villager Villager['Villager'/20240, l='ServerLevel[world]', x=537.30, y=67.00, z=1435.54] died, message: 'Villager was slain by Tony'
-[22:09:15] [Server thread/INFO]: Villager Villager['Villager'/20262, l='ServerLevel[world]', x=538.30, y=67.00, z=1433.99] died, message: 'Villager was slain by Tony'
-[22:09:15] [Server thread/INFO]: Villager Villager['Villager'/20264, l='ServerLevel[world]', x=539.14, y=67.04, z=1434.90] died, message: 'Villager was slain by Tony'
-[22:09:16] [Server thread/INFO]: Villager Villager['Villager'/20230, l='ServerLevel[world]', x=537.30, y=67.00, z=1434.90] died, message: 'Villager was slain by Tony'
-[22:09:16] [Server thread/INFO]: Villager Villager['Villager'/20272, l='ServerLevel[world]', x=537.94, y=67.00, z=1434.96] died, message: 'Villager was slain by Tony'
-[22:09:18] [Server thread/INFO]: Villager Villager['Villager'/20244, l='ServerLevel[world]', x=537.30, y=67.00, z=1434.30] died, message: 'Villager was slain by Tony'
-[22:09:19] [Server thread/INFO]: Villager Villager['Villager'/20263, l='ServerLevel[world]', x=537.99, y=67.00, z=1434.33] died, message: 'Villager was slain by Tony'
-[22:09:19] [Server thread/INFO]: Villager Villager['Villager'/20261, l='ServerLevel[world]', x=538.75, y=67.35, z=1435.71] died, message: 'Villager was slain by Tony'
-[22:09:19] [Server thread/INFO]: Villager Villager['Villager'/20265, l='ServerLevel[world]', x=538.83, y=67.00, z=1433.91] died, message: 'Villager was slain by Tony'
-[22:09:19] [Server thread/INFO]: Villager Villager['Villager'/20267, l='ServerLevel[world]', x=539.28, y=67.23, z=1434.96] died, message: 'Villager was slain by Tony'
-[22:09:19] [Server thread/INFO]: Villager Villager['Villager'/20283, l='ServerLevel[world]', x=538.30, y=67.00, z=1433.30] died, message: 'Villager was slain by Tony'
-[22:09:20] [Server thread/INFO]: Villager Villager['Villager'/20227, l='ServerLevel[world]', x=538.56, y=67.00, z=1434.27] died, message: 'Villager was slain by Tony'
-[22:09:20] [Server thread/INFO]: Villager Villager['Villager'/20252, l='ServerLevel[world]', x=539.34, y=67.02, z=1433.89] died, message: 'Villager was slain by Tony'
-[22:09:20] [Server thread/INFO]: Villager Villager['Villager'/20273, l='ServerLevel[world]', x=539.78, y=67.00, z=1433.30] died, message: 'Villager was slain by Tony'
-[22:09:22] [Server thread/INFO]: Villager Villager['Villager'/20241, l='ServerLevel[world]', x=537.73, y=67.00, z=1434.34] died, message: 'Villager was slain by Tony'
-[22:09:22] [Server thread/INFO]: Villager Villager['Villager'/20256, l='ServerLevel[world]', x=537.30, y=67.00, z=1434.58] died, message: 'Villager was slain by Tony'
-[22:09:22] [Server thread/INFO]: Villager Villager['Villager'/20229, l='ServerLevel[world]', x=538.20, y=67.00, z=1435.32] died, message: 'Villager was slain by Tony'
-[22:09:22] [Server thread/INFO]: Villager Villager['Villager'/20232, l='ServerLevel[world]', x=537.83, y=67.00, z=1434.53] died, message: 'Villager was slain by Tony'
-[22:09:22] [Server thread/INFO]: Villager Villager['Villager'/20259, l='ServerLevel[world]', x=537.30, y=67.00, z=1435.18] died, message: 'Villager was slain by Tony'
-[22:09:23] [Server thread/INFO]: Villager Villager['Villager'/20279, l='ServerLevel[world]', x=537.30, y=67.00, z=1434.30] died, message: 'Villager was slain by Tony'
-[22:09:23] [Server thread/INFO]: Villager Villager['Villager'/20228, l='ServerLevel[world]', x=538.88, y=67.00, z=1434.55] died, message: 'Villager was slain by Tony'
-[22:09:23] [Server thread/INFO]: Villager Villager['Villager'/20238, l='ServerLevel[world]', x=537.30, y=67.00, z=1434.86] died, message: 'Villager was slain by Tony'
-[22:09:23] [Server thread/INFO]: Villager Villager['Villager'/20250, l='ServerLevel[world]', x=537.30, y=67.00, z=1435.44] died, message: 'Villager was slain by Tony'
-[22:09:23] [Server thread/INFO]: Villager Villager['Villager'/20278, l='ServerLevel[world]', x=538.59, y=67.34, z=1435.83] died, message: 'Villager was slain by Tony'
-[22:09:25] [Server thread/INFO]: Villager Villager['Villager'/20275, l='ServerLevel[world]', x=537.91, y=67.00, z=1435.17] died, message: 'Villager was slain by Tony'
-[22:09:25] [Server thread/INFO]: Villager Villager['Villager'/20255, l='ServerLevel[world]', x=538.30, y=67.00, z=1433.83] died, message: 'Villager was slain by Tony'
-[22:09:25] [Server thread/INFO]: Villager Villager['Villager'/20269, l='ServerLevel[world]', x=537.30, y=67.00, z=1434.96] died, message: 'Villager was slain by Tony'
-[22:09:26] [Server thread/INFO]: Villager Villager['Villager'/20239, l='ServerLevel[world]', x=537.30, y=67.00, z=1434.86] died, message: 'Villager was slain by Tony'
-[22:09:26] [Server thread/INFO]: Villager Villager['Villager'/20276, l='ServerLevel[world]', x=538.49, y=67.00, z=1435.45] died, message: 'Villager was slain by Tony'
-[22:09:27] [Server thread/INFO]: Villager Villager['Villager'/20277, l='ServerLevel[world]', x=539.87, y=67.05, z=1433.93] died, message: 'Villager was slain by Tony'
-[22:09:28] [Server thread/INFO]: Villager Villager['Villager'/20235, l='ServerLevel[world]', x=538.30, y=67.00, z=1433.30] died, message: 'Villager was slain by Tony'
-[22:09:28] [Server thread/INFO]: Villager Villager['Villager'/20233, l='ServerLevel[world]', x=539.27, y=67.05, z=1433.72] died, message: 'Villager was slain by Tony'
-[22:09:30] [Server thread/INFO]: Villager Villager['Villager'/20260, l='ServerLevel[world]', x=538.47, y=67.00, z=1433.57] died, message: 'Villager was slain by Tony'
-[22:09:31] [Server thread/INFO]: Villager Villager['Villager'/20258, l='ServerLevel[world]', x=539.17, y=67.00, z=1434.27] died, message: 'Villager was slain by Tony'
-[22:09:31] [Server thread/INFO]: Villager Villager['Villager'/20251, l='ServerLevel[world]', x=539.94, y=67.21, z=1434.31] died, message: 'Villager was slain by Tony'
-[22:09:31] [Server thread/INFO]: Villager Villager['Villager'/22711, l='ServerLevel[world]', x=539.63, y=67.00, z=1433.30] died, message: 'Villager was slain by Tony'
-[22:09:31] [Server thread/INFO]: Villager Villager['Villager'/20274, l='ServerLevel[world]', x=538.72, y=67.13, z=1434.66] died, message: 'Villager was slain by Tony'
-[22:09:33] [Server thread/INFO]: Villager Villager['Villager'/20268, l='ServerLevel[world]', x=538.09, y=67.00, z=1434.70] died, message: 'Villager was slain by Tony'
-[22:09:33] [Server thread/INFO]: Villager Villager['Villager'/20231, l='ServerLevel[world]', x=538.01, y=67.05, z=1435.91] died, message: 'Villager was slain by Tony'
-[22:09:37] [Server thread/INFO]: Villager Villager['Villager'/20234, l='ServerLevel[world]', x=539.26, y=67.00, z=1434.00] died, message: 'Villager was slain by Tony'
-[22:09:37] [Server thread/INFO]: Villager Villager['Villager'/20243, l='ServerLevel[world]', x=539.17, y=67.00, z=1433.34] died, message: 'Villager was slain by Tony'
-[22:09:37] [Server thread/INFO]: Villager Villager['Villager'/20271, l='ServerLevel[world]', x=538.37, y=67.00, z=1434.36] died, message: 'Villager was slain by Tony'
-[22:09:38] [Server thread/INFO]: Villager Villager['Villager'/20245, l='ServerLevel[world]', x=537.30, y=67.00, z=1435.64] died, message: 'Villager was slain by Tony'
-[22:09:40] [Server thread/INFO]: Villager Villager['Villager'/20280, l='ServerLevel[world]', x=539.75, y=67.00, z=1433.30] died, message: 'Villager was slain by Tony'
-[22:09:42] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:09:48] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:10:52] [Server thread/INFO]: [Tony: Gave 1 [Glass] to Tony]
-[22:11:19] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:11:28] [Server thread/WARN]: Tony moved too quickly! 7.63851359814123,0.0,7.687560346667851
-[22:11:48] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[22:13:36] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:13:53] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:16:12] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:16:29] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:16:35] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:16:56] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[22:18:03] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:18:29] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:18:30] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:18:38] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:19:42] [Server thread/INFO]: [leomod: Set own game mode to Adventure Mode]
-[22:19:44] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:19:59] [Server thread/INFO]: [leomod: Set own game mode to Adventure Mode]
-[22:20:16] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:20:35] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:21:11] [Server thread/WARN]: Tony moved too quickly! 5.5464369120757055,-3.656319761098416,-16.784033030338605
-[22:21:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[22:27:59] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
-[22:28:36] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=379, y=64, z=1227} BlockPos{x=379, y=62, z=1228}
-[22:28:36] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=381, y=64, z=1229} BlockPos{x=381, y=62, z=1230}
-[22:28:36] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=381, y=64, z=1229} BlockPos{x=381, y=62, z=1230}
-[22:30:59] [Server thread/WARN]: MECIULLO moved too quickly! -9.623981241589377,0.5291107982217511,14.823355349087478
-[22:32:06] [Server thread/WARN]: MECIULLO moved too quickly! -15.207580646332985,-6.115488906269064,-9.175631421901699
-[22:33:22] [Server thread/INFO]: [Tony: Gave 16 [Sand] to Tony]
-[22:36:18] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:36:45] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:36:47] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:36:59] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:37:03] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:37:07] [Server thread/WARN]: Tony moved too quickly! -7.915412611383431,-3.3749662030517413,-5.623393605035972
-[22:37:23] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:39:31] [Server thread/INFO]: [Tony: Gave 16 [Hopper] to Tony]
-[22:39:37] [Server thread/INFO]: Villager Villager['Leatherworker'/45553, l='ServerLevel[world]', x=584.51, y=70.02, z=1414.83] died, message: 'Leatherworker was speared by Zombie'
-[22:40:08] [Server thread/INFO]: Villager Villager['Villager'/45589, l='ServerLevel[world]', x=527.30, y=63.00, z=1415.50] died, message: 'Villager was speared by Zombie'
-[22:40:13] [Server thread/WARN]: Tony moved too quickly! 10.765233892761557,5.8926650351129695,12.968769855664505
-[22:40:24] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:40:32] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:41:18] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[22:41:22] [Server thread/INFO]: [Tony: Set the weather to clear]
-[22:42:56] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=592, y=69, z=1448} BlockPos{x=592, y=70, z=1448}
-[22:43:14] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:43:34] [Server thread/INFO]: [leomod: Set own game mode to Adventure Mode]
-[22:44:03] [Server thread/INFO]: [Tony: Gave 2 [Redstone Lamp] to Tony]
-[22:44:20] [Server thread/INFO]: [Tony: Gave 2 [Redstone Torch] to Tony]
-[22:44:58] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:45:20] [Server thread/INFO]: [leomod: Set own game mode to Adventure Mode]
-[22:45:48] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[22:45:50] [Server thread/WARN]: Tony moved too quickly! -2.8982102317629597,4.4999975192762065,-8.581765606454155
-[22:46:07] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[22:47:33] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=591, y=72, z=1450} BlockPos{x=591, y=70, z=1449}
-[22:47:33] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=591, y=72, z=1450} BlockPos{x=591, y=70, z=1449}
-[22:47:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=591, y=72, z=1442} BlockPos{x=591, y=70, z=1441}
-[22:47:35] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=591, y=72, z=1442} BlockPos{x=591, y=70, z=1441}
-[22:47:48] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:48:06] [Server thread/INFO]: [leomod: Set own game mode to Adventure Mode]
-[22:48:23] [Server thread/INFO]: [Tony: Gave 14 [Powered Rail] to Tony]
-[22:51:18] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[22:52:00] [Server thread/INFO]: [Tony: Gave 1 [Lever] to Tony]
-[22:53:52] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=589, y=68, z=1456} BlockPos{x=589, y=68, z=1455}
-[22:53:52] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=589, y=68, z=1456} BlockPos{x=589, y=68, z=1455}
-[22:53:52] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=589, y=68, z=1456} BlockPos{x=589, y=68, z=1455}
-[22:53:52] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=589, y=68, z=1456} BlockPos{x=589, y=68, z=1455}
-[22:54:11] [Server thread/INFO]: [Tony: Gave 1 [Redstone Repeater] to Tony]
-[22:56:22] [Server thread/INFO]: [Tony: Gave 1 [Redstone Repeater] to Tony]
-[22:56:33] [Server thread/INFO]: [Tony: Gave 7 [Redstone Dust] to Tony]
-[22:56:44] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:57:30] [Server thread/INFO]: [leomod: Set own game mode to Adventure Mode]
-[22:57:33] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:57:44] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
-[22:58:12] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:58:15] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
-[22:58:50] [Server thread/INFO]: [Tony: Gave 2 [Redstone Torch] to Tony]
-[22:58:59] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:59:13] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
-[22:59:18] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[22:59:24] [Server thread/INFO]: MECIULLO lost connection: Disconnected
-[22:59:24] [Server thread/INFO]: MECIULLO left the game
-[22:59:27] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
-[23:02:47] [Server thread/INFO]: leomod lost connection: Disconnected
-[23:02:47] [Server thread/INFO]: leomod left the game
-[23:03:14] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[23:03:17] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[23:04:48] [Server thread/INFO]: Tony lost connection: Disconnected
-[23:04:48] [Server thread/INFO]: Tony left the game
+[10:14:13] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/pingu/Documents/GitHub/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[10:14:13] [main/INFO]: Compatibility level set to JAVA_17
+[10:14:13] [main/INFO]: Compatibility level set to JAVA_25
+[10:14:13] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
+[10:14:13] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 0 override(s) found.
+[10:14:14] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[10:14:20] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[10:14:22] [main/INFO]: Loaded 1515 recipes
+[10:14:22] [main/INFO]: Loaded 1617 advancements
+[10:14:22] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.470 ms
+[10:14:22] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[10:14:22] [Server thread/INFO]: Loading properties
+[10:14:22] [Server thread/INFO]: Default game type: SURVIVAL
+[10:14:22] [Server thread/INFO]: Generating keypair
+[10:14:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:14:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:14:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:14:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:14:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:14:22] [Server thread/INFO]: Preparing level "world"
+[10:14:23] [Server thread/INFO]: Loading 0 persistent chunks...
+[10:14:23] [Server thread/INFO]: Preparing spawn area: 100%
+[10:14:23] [Server thread/INFO]: Time elapsed: 54 ms
+[10:14:23] [Server thread/INFO]: Done (0.396s)! For help, type "help"
+[10:14:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:14:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:14:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:14:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:14:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:14:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:14:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:15:18] [Server thread/INFO]: MECIULLO[/127.0.0.1:51265] logged in with entity id 2 at (550.1401250764328, 69.0, 1302.1682328004179)
+[10:15:18] [Server thread/INFO]: MECIULLO joined the game
+[10:15:55] [Server thread/INFO]: [MECIULLO: Set own game mode to Creative Mode]
+[10:16:01] [Server thread/INFO]: [MECIULLO: Set minecraft:overworld to time marker minecraft:day]
+[10:19:14] [Server thread/INFO]: [MECIULLO: Set own game mode to Survival Mode]
+[10:20:56] [Server thread/INFO]: [MECIULLO: Set own game mode to Creative Mode]
+[10:25:42] [Server thread/INFO]: [MECIULLO: Set minecraft:overworld to time marker minecraft:day]
+[10:35:27] [Server thread/INFO]: [MECIULLO: Set minecraft:overworld to time marker minecraft:day]
+[10:45:08] [Server thread/INFO]: [MECIULLO: Set minecraft:overworld to time marker minecraft:day]
+[10:54:50] [Server thread/INFO]: [MECIULLO: Set minecraft:overworld to time marker minecraft:day]
+[11:02:25] [Server thread/INFO]: [MECIULLO: Set own game mode to Survival Mode]
+[11:03:44] [Server thread/INFO]: [MECIULLO: Set own game mode to Creative Mode]
+[11:03:49] [Server thread/INFO]: [MECIULLO: Set own game mode to Survival Mode]
+[11:05:34] [Server thread/INFO]: [MECIULLO: Set own game mode to Creative Mode]
+[11:05:37] [Server thread/INFO]: [MECIULLO: Set own game mode to Survival Mode]
+[11:06:00] [Server thread/INFO]: [MECIULLO: Set own game mode to Creative Mode]
+[11:06:04] [Server thread/INFO]: [MECIULLO: Set own game mode to Survival Mode]
+[11:09:30] [Server thread/INFO]: [MECIULLO: Set minecraft:overworld to time marker minecraft:day]
+[11:22:49] [Server thread/INFO]: [MECIULLO: Set own game mode to Creative Mode]
+[11:22:55] [Server thread/INFO]: [MECIULLO: Set own game mode to Survival Mode]
+[11:26:39] [Server thread/INFO]: [MECIULLO: Set own game mode to Creative Mode]
+[11:26:45] [Server thread/INFO]: [MECIULLO: Set own game mode to Survival Mode]
+[11:28:30] [Server thread/INFO]: [MECIULLO: Set own game mode to Creative Mode]
+[11:29:11] [Server thread/INFO]: [MECIULLO: Set own game mode to Survival Mode]
+[11:30:21] [Server thread/INFO]: [MECIULLO: Set own game mode to Creative Mode]
+[11:30:31] [Server thread/INFO]: [MECIULLO: Set own game mode to Survival Mode]
+[11:30:37] [Server thread/INFO]: [MECIULLO: Set own game mode to Creative Mode]
+[11:30:41] [Server thread/INFO]: [MECIULLO: Set own game mode to Survival Mode]
+[11:36:59] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=415, y=63, z=1294} BlockPos{x=411, y=63, z=1286}
+[11:37:13] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=395, y=63, z=1273} BlockPos{x=391, y=63, z=1265}
+[11:53:24] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=74, z=1283} BlockPos{x=234, y=74, z=1282}
+[11:53:24] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=234, y=74, z=1283} BlockPos{x=234, y=74, z=1282}
+[12:01:53] [Server thread/INFO]: MECIULLO lost connection: Disconnected
+[12:01:53] [Server thread/INFO]: MECIULLO left the game
