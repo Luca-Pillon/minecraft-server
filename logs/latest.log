@@ -1,6 +1,6 @@
-[17:22:16] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
-[17:22:16] [main/INFO]: Mappings not present!
-[17:22:16] [main/INFO]: Loading 46 mods:
+[17:57:56] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
+[17:57:56] [main/INFO]: Mappings not present!
+[17:57:57] [main/INFO]: Loading 46 mods:
 	- chunky 1.5.3
 	- entityculling 1.10.2
 	   |-- transition 1.0.19
@@ -54,87 +54,46 @@
 	- java 25
 	- lithium 0.24.4+mc26.1.2
 	- minecraft 26.1.2
-[17:22:22] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/GitHub/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[17:22:24] [main/INFO]: Compatibility level set to JAVA_17
-[17:22:24] [main/INFO]: Compatibility level set to JAVA_25
-[17:22:24] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
-[17:22:24] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 0 override(s) found.
-[17:22:26] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
-[17:22:38] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[17:22:40] [main/INFO]: Loaded 1515 recipes
-[17:22:40] [main/INFO]: Loaded 1617 advancements
-[17:22:41] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.665 ms
-[17:22:41] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[17:22:41] [Server thread/INFO]: Loading properties
-[17:22:41] [Server thread/INFO]: Default game type: SURVIVAL
-[17:22:41] [Server thread/INFO]: Generating keypair
-[17:22:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:22:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:22:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:22:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:22:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:22:41] [Server thread/INFO]: Preparing level "world"
-[17:22:42] [Server thread/INFO]: Loading 0 persistent chunks...
-[17:22:42] [Server thread/INFO]: Preparing spawn area: 100%
-[17:22:42] [Server thread/INFO]: Time elapsed: 104 ms
-[17:22:42] [Server thread/INFO]: Done (0.849s)! For help, type "help"
-[17:22:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:22:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:22:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:22:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:22:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:22:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:22:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:23:07] [Server thread/INFO]: leomod[/127.0.0.1:56723] logged in with entity id 334 at (559.9519621334497, 63.0, 1085.838328234388)
-[17:23:07] [Server thread/INFO]: leomod joined the game
-[17:23:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[17:32:18] [Server thread/INFO]: Villager Villager['Farmer'/456, l='ServerLevel[world]', x=573.54, y=65.50, z=1177.30] died, message: 'Farmer was slain by Zombie'
-[17:43:01] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[17:43:07] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
-[17:56:56] [Server thread/INFO]: leomod lost connection: Disconnected
-[17:56:56] [Server thread/INFO]: leomod left the game
-[17:56:58] [Netty NIO IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at knot//net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:50)
-	at knot//net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14)
-	at knot//net.minecraft.network.PacketEncoder.encode$mixinextras$wrapped$9(PacketEncoder.java:26)
-	at knot//net.minecraft.network.PacketEncoder.mixinextras$bridge$encode$mixinextras$wrapped$9$10(PacketEncoder.java)
-	at knot//net.minecraft.network.PacketEncoder.md18dba6$fabric-networking-api-v1$lambda$wrapWithContext$0$0(PacketEncoder.java:558)
-	at java.base/jdk.internal.vm.ScopedValueContainer.runWithoutScope(ScopedValueContainer.java:112)
-	at java.base/jdk.internal.vm.ScopedValueContainer.run(ScopedValueContainer.java:98)
-	at java.base/java.lang.ScopedValue$Carrier.run(ScopedValue.java:466)
-	at knot//net.minecraft.network.PacketEncoder.wrapMethod$zhl000$fabric-networking-api-v1$wrapWithContext(PacketEncoder.java:558)
-	at knot//net.minecraft.network.PacketEncoder.encode(PacketEncoder.java)
-	at knot//net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12)
-	at knot//io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
-	at knot//io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
-	at knot//io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:752)
-	at knot//io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
-	at knot//net.minecraft.network.Connection$2.write(Connection.java:488)
-	at knot//io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
-	at knot//io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:804)
-	at knot//io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:869)
-	at knot//io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
-	at knot//io.netty.channel.Channel.writeAndFlush(Channel.java:257)
-	at knot//net.minecraft.network.Connection.doSendPacket(Connection.java:324)
-	at knot//net.minecraft.network.Connection.sendPacket(Connection.java:316)
-	at knot//net.minecraft.network.Connection.send(Connection.java:298)
-	at knot//net.minecraft.network.Connection.send(Connection.java:292)
-	at knot//net.minecraft.network.Connection.exceptionCaught(Connection.java:143)
-	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:289)
-	at knot//io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:271)
-	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
-	at knot//io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
-	at knot//io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:127)
-	at knot//io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:179)
-	at knot//io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445)
-	at knot//io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:388)
-	at knot//io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:596)
-	at knot//io.netty.channel.nio.NioIoHandler.processSelectedKeysPlain(NioIoHandler.java:541)
-	at knot//io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:514)
-	at knot//io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:484)
-	at knot//io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
-	at knot//io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
-	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
-	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-	at java.base/java.lang.Thread.run(Thread.java:1474)
+[17:58:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/GitHub/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[17:58:08] [main/INFO]: Compatibility level set to JAVA_17
+[17:58:08] [main/INFO]: Compatibility level set to JAVA_25
+[17:58:08] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:58:08] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 0 override(s) found.
+[17:58:15] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[17:58:44] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:58:55] [main/INFO]: Loaded 1515 recipes
+[17:58:56] [main/INFO]: Loaded 1617 advancements
+[17:58:56] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 3.128 ms
+[17:58:56] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[17:58:56] [Server thread/INFO]: Loading properties
+[17:58:56] [Server thread/INFO]: Default game type: SURVIVAL
+[17:58:56] [Server thread/INFO]: Generating keypair
+[17:58:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:58:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:58:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:58:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:58:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:58:57] [Server thread/INFO]: Preparing level "world"
+[17:58:58] [Server thread/INFO]: Loading 0 persistent chunks...
+[17:58:58] [Server thread/INFO]: Preparing spawn area: 100%
+[17:58:58] [Server thread/INFO]: Time elapsed: 109 ms
+[17:58:58] [Server thread/INFO]: Done (1.673s)! For help, type "help"
+[17:58:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:58:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:58:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:58:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:58:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:58:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:58:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:59:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:08:29] [Server thread/INFO]: leomod[/127.0.0.1:52878] logged in with entity id 330 at (564.1901476183651, 63.0, 1086.730722705402)
+[18:08:30] [Server thread/INFO]: leomod joined the game
+[18:08:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3325ms or 66 ticks behind
+[18:08:44] [Server thread/WARN]: leomod moved too quickly! 7.529801754473965,0.15000000596046448,7.373362778959063
+[18:09:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13781ms or 275 ticks behind
+[18:18:02] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[18:20:08] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[18:35:33] [Server thread/WARN]: leomod moved too quickly! -3.7869500347784424,0.0,-10.079360571790176
+[18:45:49] [Server thread/WARN]: leomod moved too quickly! 4.4661309195180365,0.9358800761783499,9.807226589547554
+[19:19:00] [Server thread/INFO]: leomod lost connection: Disconnected
+[19:19:00] [Server thread/INFO]: leomod left the game
