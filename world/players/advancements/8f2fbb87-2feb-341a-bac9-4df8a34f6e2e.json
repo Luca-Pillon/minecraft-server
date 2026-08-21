@@ -517,6 +517,7 @@
       "apple": "2026-07-07 22:29:07 +0200",
       "spider_eye": "2026-07-07 23:02:25 +0200",
       "cooked_chicken": "2026-07-07 22:35:34 +0200",
+      "potato": "2026-08-21 12:26:02 +0200",
       "rabbit_stew": "2026-07-20 16:53:35 +0200",
       "poisonous_potato": "2026-08-07 10:40:54 +0200",
       "cooked_salmon": "2026-07-07 23:29:50 +0200",
@@ -6527,6 +6528,24 @@
   "minecraft:recipes/decorations/birch_shelf": {
     "criteria": {
       "has_stripped_birch_log": "2026-08-20 11:18:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2026-08-21 12:20:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2026-08-21 12:20:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
+    "criteria": {
+      "has_vines": "2026-08-21 12:20:37 +0200"
     },
     "done": true
   },
