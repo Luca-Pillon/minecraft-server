@@ -1,6 +1,6 @@
-[15:27:44] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
-[15:27:44] [main/INFO]: Mappings not present!
-[15:27:44] [main/INFO]: Loading 48 mods:
+[17:19:22] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
+[17:19:22] [main/INFO]: Mappings not present!
+[17:19:22] [main/INFO]: Loading 48 mods:
 	- chunky 1.5.3
 	- entityculling 1.10.2
 	   |-- transition 1.0.19
@@ -57,54 +57,55 @@
 	- worldedit 7.4.3+7515-78babeb
 	   |-- fabric-api-base 2.0.3+ece063234c
 	   \-- worldeditcui_protocol 4.0.3
-[15:27:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/GitHub/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[15:27:53] [main/INFO]: Compatibility level set to JAVA_17
-[15:27:53] [main/INFO]: Compatibility level set to JAVA_25
-[15:27:53] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:27:53] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 1 override(s) found.
-[15:27:57] [main/INFO]: Force-enabling mixin 'compat.worldedit.LevelChunkMixin' as rule 'mixin.compat.worldedit' (added by mods [lithium]) enables it
-[15:27:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
-[15:28:14] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.internal.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3464b165]
-[15:28:14] [main/INFO]: WorldEdit for Fabric (version 7.4.3+7515-78babeb) is loaded
-[15:28:14] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[15:28:18] [Worker-Main-2/INFO]: Registering commands with com.sk89q.worldedit.fabric.internal.FabricPlatform
-[15:28:18] [main/INFO]: Loaded 1515 recipes
-[15:28:18] [main/INFO]: Loaded 1617 advancements
-[15:28:18] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.641 ms
-[15:28:18] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[15:28:18] [Server thread/INFO]: Loading properties
-[15:28:18] [Server thread/INFO]: Default game type: SURVIVAL
-[15:28:18] [Server thread/INFO]: Generating keypair
-[15:28:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:28:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:28:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:28:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:28:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:28:19] [Server thread/INFO]: Preparing level "world"
-[15:28:19] [Server thread/INFO]: Loading 0 persistent chunks...
-[15:28:19] [Server thread/INFO]: Preparing spawn area: 100%
-[15:28:19] [Server thread/INFO]: Time elapsed: 74 ms
-[15:28:19] [Server thread/INFO]: Done (0.612s)! For help, type "help"
-[15:28:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:28:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:28:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[15:28:29] [Server thread/INFO]: leomod[/127.0.0.1:53764] logged in with entity id 110 at (579.9164448775525, 62.09375, 1149.9675555576655)
-[15:28:29] [Server thread/INFO]: leomod joined the game
-[15:28:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[15:28:42] [Server thread/WARN]: leomod moved too quickly! 0.3146082308704763,0.0,10.859414990736923
-[15:28:45] [Server thread/WARN]: leomod moved too quickly! 0.4331665576374917,0.0,10.791281069381284
-[15:28:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7989ms or 159 ticks behind
-[15:30:02] [Server thread/INFO]: [leomod: Teleported leomod to 10656.500000, 120.000000, 11196.500000]
-[15:30:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3702ms or 74 ticks behind
-[15:30:05] [Server thread/WARN]: leomod moved too quickly! 0.0,-10.806526110008988,0.0
-[15:30:07] [Server thread/WARN]: leomod moved too quickly! 0.0,-10.806526110008988,0.0
-[15:31:42] [WorldEdit Task Executor - 0/INFO]: leomod loaded C:\GitHub\minecraft-server\config\worldedit\schematics\avengers_tower.schem
-[15:32:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5044ms or 100 ticks behind
-[15:32:08] [Server thread/WARN]: leomod moved too quickly! 0.6416460080981778,10.182686464356436,-0.014889795080307522
-[15:32:45] [Server thread/INFO]: [leomod: Teleported leomod to 656.500000, 63.000000, 1196.500000]
-[15:38:07] [Server thread/INFO]: leomod lost connection: Disconnected
-[15:38:07] [Server thread/INFO]: leomod left the game
+[17:19:23] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[17:19:24] [main/INFO]: Compatibility level set to JAVA_17
+[17:19:24] [main/INFO]: Compatibility level set to JAVA_25
+[17:19:24] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
+[17:19:24] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 1 override(s) found.
+[17:19:24] [main/INFO]: Force-enabling mixin 'compat.worldedit.LevelChunkMixin' as rule 'mixin.compat.worldedit' (added by mods [lithium]) enables it
+[17:19:24] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[17:19:28] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.internal.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@18a88bae]
+[17:19:28] [main/INFO]: WorldEdit for Fabric (version 7.4.3+7515-78babeb) is loaded
+[17:19:28] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:19:29] [Worker-Main-13/INFO]: Registering commands with com.sk89q.worldedit.fabric.internal.FabricPlatform
+[17:19:29] [main/INFO]: Loaded 1515 recipes
+[17:19:29] [main/INFO]: Loaded 1617 advancements
+[17:19:29] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 935.1 μs
+[17:19:29] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[17:19:29] [Server thread/INFO]: Loading properties
+[17:19:29] [Server thread/INFO]: Default game type: SURVIVAL
+[17:19:29] [Server thread/INFO]: Generating keypair
+[17:19:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:19:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:19:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:19:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:19:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:19:29] [Server thread/INFO]: Preparing level "world"
+[17:19:30] [Server thread/INFO]: Loading 0 persistent chunks...
+[17:19:30] [Server thread/INFO]: Preparing spawn area: 100%
+[17:19:30] [Server thread/INFO]: Time elapsed: 53 ms
+[17:19:30] [Server thread/INFO]: Done (0.318s)! For help, type "help"
+[17:19:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:19:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:19:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:19:31] [Server thread/INFO]: Tony[/127.0.0.1:52440] logged in with entity id 107 at (381.6009355075043, 75.0, 1298.300000011921)
+[17:19:31] [Server thread/INFO]: Tony joined the game
+[17:19:35] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[17:19:38] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[17:20:02] [Server thread/INFO]: [Tony: Gave 1 [Ender Pearl] to Tony]
+[17:20:32] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[17:20:48] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[17:40:40] [Server thread/INFO]: [Tony: Set the weather to clear]
+[17:43:56] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[17:44:17] [Server thread/INFO]: [Tony: Successfully filled 563 block(s)]
+[17:44:24] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[17:48:52] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
+[17:58:21] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[17:58:22] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[17:59:35] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[18:00:16] [Server thread/INFO]: Tony lost connection: Disconnected
+[18:00:16] [Server thread/INFO]: Tony left the game
