@@ -1,6 +1,6 @@
-[19:55:41] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
-[19:55:41] [main/INFO]: Mappings not present!
-[19:55:41] [main/INFO]: Loading 46 mods:
+[10:25:03] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.3
+[10:25:03] [main/INFO]: Mappings not present!
+[10:25:03] [main/INFO]: Loading 46 mods:
 	- chunky 1.5.3
 	- entityculling 1.10.2
 	   |-- transition 1.0.19
@@ -54,101 +54,87 @@
 	- java 25
 	- lithium 0.24.4+mc26.1.2
 	- minecraft 26.1.2
-[19:55:45] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/GitHub/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:55:47] [main/INFO]: Compatibility level set to JAVA_17
-[19:55:47] [main/INFO]: Compatibility level set to JAVA_25
-[19:55:47] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:55:47] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 0 override(s) found.
-[19:55:48] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
-[19:55:56] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[19:55:58] [main/INFO]: Loaded 1515 recipes
-[19:55:58] [main/INFO]: Loaded 1617 advancements
-[19:55:59] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.735 ms
-[19:55:59] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[19:55:59] [Server thread/INFO]: Loading properties
-[19:55:59] [Server thread/INFO]: Default game type: SURVIVAL
-[19:55:59] [Server thread/INFO]: Generating keypair
-[19:55:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:55:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:55:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:55:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:55:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:55:59] [Server thread/INFO]: Preparing level "world"
-[19:56:00] [Server thread/INFO]: Loading 0 persistent chunks...
-[19:56:00] [Server thread/INFO]: Preparing spawn area: 100%
-[19:56:00] [Server thread/INFO]: Time elapsed: 71 ms
-[19:56:00] [Server thread/INFO]: Done (0.629s)! For help, type "help"
-[19:56:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:56:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:56:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:56:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:56:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:56:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:56:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[19:56:11] [Server thread/INFO]: leomod[/127.0.0.1:50195] logged in with entity id 352 at (566.5144325940389, 63.0, 1089.8518022635494)
-[19:56:11] [Server thread/INFO]: leomod joined the game
-[19:56:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[20:19:36] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[20:19:53] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
-[20:23:37] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[20:24:57] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
-[20:32:00] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[20:32:27] [Server thread/INFO]: Tony[/26.86.243.48:62564] logged in with entity id 6426 at (284.71468373330964, 71.875, 1301.7749779625813)
-[20:32:27] [Server thread/INFO]: Tony joined the game
-[20:33:18] [Server thread/WARN]: Tony moved too quickly! 17.68108511591481,-2.3188783797835555,-0.0431452506882124
-[20:33:37] [Server thread/INFO]: Tony lost connection: Disconnected
-[20:33:37] [Server thread/INFO]: Tony left the game
-[20:33:43] [Server thread/INFO]: Tony[/26.86.243.48:64959] logged in with entity id 7293 at (565.5508942141824, 91.23645142185819, 1133.1875446040854)
-[20:33:43] [Server thread/INFO]: Tony joined the game
-[20:35:34] [Server thread/WARN]: Tony moved too quickly! -9.608380118818445,-0.5013359791121417,3.2268853017674246
-[20:36:09] [Server thread/WARN]: Tony moved too quickly! -0.3538315068532256,2.6369266333689865,17.854010711541605
-[20:36:14] [Server thread/INFO]: Tony lost connection: Disconnected
-[20:36:14] [Server thread/INFO]: Tony left the game
-[20:36:18] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
-[20:37:04] [Server thread/INFO]: Tony[/26.86.243.48:53915] logged in with entity id 8293 at (556.0602665513895, 86.6769778735254, 1241.1951856312953)
-[20:37:04] [Server thread/INFO]: Tony joined the game
-[20:37:15] [Server thread/WARN]: Tony moved too quickly! -0.16840075276388689,4.110399662959026,10.794049688093537
-[20:37:18] [Server thread/WARN]: Tony was kicked for floating too long!
-[20:37:18] [Server thread/INFO]: Tony lost connection: Flying is not enabled on this server
-[20:37:18] [Server thread/INFO]: Tony left the game
-[20:37:33] [Server thread/INFO]: Tony[/26.86.243.48:62957] logged in with entity id 8657 at (592.291001838327, 74.30692552172657, 1317.8827002039025)
-[20:37:33] [Server thread/INFO]: Tony joined the game
-[20:39:06] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[20:39:10] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[20:39:19] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[20:39:56] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[20:40:05] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[20:40:15] [Server thread/WARN]: Tony moved too quickly! -13.607951422470649,-2.533974532975691,-10.572930820308102
-[20:40:27] [Server thread/WARN]: Tony moved too quickly! -14.705769615678662,-2.3269018600255293,-9.624050761291073
-[20:48:21] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[20:48:29] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[20:48:29] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[20:54:00] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
-[20:56:16] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[20:58:08] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[20:58:20] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[20:58:22] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[20:58:29] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[20:58:33] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[20:58:41] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[20:58:47] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:00:18] [Server thread/INFO]: [Tony: Gave 1 [Oak Leaves] to Tony]
-[21:07:22] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:07:24] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[21:07:31] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
-[21:07:34] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:07:35] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:07:43] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[21:08:10] [Server thread/INFO]: [leomod: Set own game mode to Spectator Mode]
-[21:08:17] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[21:09:02] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
-[21:09:10] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
-[21:14:16] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
-[21:14:47] [Server thread/INFO]: [Tony: Set the weather to clear]
-[21:14:52] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
-[21:15:49] [Server thread/INFO]: Tony lost connection: Disconnected
-[21:15:49] [Server thread/INFO]: Tony left the game
-[21:17:53] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
-[21:30:48] [Server thread/INFO]: [leomod: Set the weather to clear]
-[21:50:58] [Server thread/INFO]: leomod lost connection: Disconnected
-[21:50:58] [Server thread/INFO]: leomod left the game
+[10:25:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[10:25:05] [main/INFO]: Compatibility level set to JAVA_17
+[10:25:05] [main/INFO]: Compatibility level set to JAVA_25
+[10:25:05] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
+[10:25:05] [main/INFO]: Loaded configuration file for Lithium: 168 options available, 0 override(s) found.
+[10:25:06] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[10:25:09] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[10:25:10] [main/INFO]: Loaded 1515 recipes
+[10:25:10] [main/INFO]: Loaded 1617 advancements
+[10:25:10] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.014 ms
+[10:25:10] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[10:25:10] [Server thread/INFO]: Loading properties
+[10:25:10] [Server thread/INFO]: Default game type: SURVIVAL
+[10:25:10] [Server thread/INFO]: Generating keypair
+[10:25:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:25:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:25:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:25:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:25:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:25:11] [Server thread/INFO]: Preparing level "world"
+[10:25:11] [Server thread/INFO]: Loading 0 persistent chunks...
+[10:25:11] [Server thread/INFO]: Preparing spawn area: 100%
+[10:25:11] [Server thread/INFO]: Time elapsed: 73 ms
+[10:25:11] [Server thread/INFO]: Done (0.344s)! For help, type "help"
+[10:25:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:25:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:25:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:25:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:25:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:25:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:25:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:25:15] [Server thread/INFO]: Tony[/127.0.0.1:65282] logged in with entity id 46 at (21.69999998807907, 15.0, 44.38067661528623)
+[10:25:15] [Server thread/INFO]: Tony joined the game
+[10:25:17] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[10:26:30] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[10:30:56] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[10:31:02] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[10:31:06] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[10:31:13] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[10:31:17] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[10:31:19] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[10:31:26] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[10:33:09] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[10:41:20] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[10:42:25] [Server thread/INFO]: [Tony: Gave 50 experience levels to Tony]
+[10:42:32] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
+[10:42:50] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[10:42:58] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[10:43:12] [Server thread/INFO]: [Tony: Gave 32 [Book] to Tony]
+[10:43:29] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[10:43:34] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[10:44:36] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[10:44:41] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[10:46:06] [Server thread/INFO]: leomod[/26.53.21.84:52186] logged in with entity id 8913 at (605.2915339561781, 64.0, 1080.8468043168145)
+[10:46:06] [Server thread/INFO]: leomod joined the game
+[10:54:48] [Server thread/INFO]: [Not Secure] <Tony> 571 -36 1037 spawner scheletri
+[11:00:59] [Server thread/INFO]: Villager Villager['Farmer'/8380, l='ServerLevel[world]', x=575.52, y=65.56, z=1181.70] died, message: 'Farmer was slain by Zombie'
+[11:06:26] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[11:06:38] [Server thread/INFO]: [leomod: Set own game mode to Survival Mode]
+[11:09:42] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=661, y=35, z=1071} BlockPos{x=661, y=36, z=1069}
+[11:10:07] [Server thread/INFO]: [leomod: Set the weather to clear]
+[11:10:24] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[11:10:36] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[11:15:43] [Server thread/INFO]: [Tony: Set minecraft:overworld to time marker minecraft:day]
+[11:16:54] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[11:16:56] [Server thread/WARN]: leomod moved too quickly! 6.057942688534808,1.7967356006687112,7.847446650183883
+[11:17:05] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[11:17:32] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[11:17:41] [Server thread/INFO]: [Tony: Set own game mode to Creative Mode]
+[11:18:00] [Server thread/INFO]: [Tony: Set own game mode to Spectator Mode]
+[11:18:04] [Server thread/INFO]: [Tony: Set own game mode to Survival Mode]
+[11:19:27] [Server thread/INFO]: [Tony: Gave 1 [Ender Pearl] to Tony]
+[11:22:32] [Server thread/INFO]: [Tony: Gave 7 [Sugar Cane] to Tony]
+[11:24:28] [Server thread/INFO]: Tony lost connection: Disconnected
+[11:24:28] [Server thread/INFO]: Tony left the game
+[11:25:27] [Server thread/INFO]: [leomod: Set own game mode to Creative Mode]
+[11:41:12] [Server thread/INFO]: [leomod: Gave 2 [Coarse Dirt] to leomod]
+[11:45:31] [Server thread/INFO]: [leomod: Set minecraft:overworld to time marker minecraft:day]
+[11:53:14] [Server thread/WARN]: leomod moved too quickly! 3.6099481498025625,-6.516563205922438,-6.755067232951205
+[11:53:41] [Server thread/WARN]: leomod moved too quickly! 2.186033888729412,0.06566926665945516,9.837775970203893
+[11:57:42] [Server thread/WARN]: leomod moved too quickly! 10.294165040796202,0.0,0.0652990764099286
+[11:58:50] [Server thread/WARN]: leomod moved too quickly! -1.8229856131665656,0.0,-10.14607604048274
+[12:03:43] [Server thread/INFO]: leomod lost connection: Disconnected
+[12:03:43] [Server thread/INFO]: leomod left the game
