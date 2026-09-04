@@ -6652,5 +6652,71 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/resin_brick": {
+    "criteria": {
+      "has_resin_clump": "2026-09-04 14:18:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_block": {
+    "criteria": {
+      "has_resin_clump": "2026-09-04 14:18:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creaking_heart": {
+    "criteria": {
+      "has_resin_block": "2026-09-04 14:20:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/resin_clump": {
+    "criteria": {
+      "has_resin_block": "2026-09-04 14:20:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2026-09-04 14:21:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2026-09-04 14:21:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/heart_transplanter": {
+    "criteria": {
+      "place_pale_oak_log": "2026-09-04 14:23:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2026-09-04 14:27:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2026-09-04 14:27:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2026-09-04 14:27:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2026-09-04 14:33:40 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 4790
 }
