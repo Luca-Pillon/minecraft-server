@@ -6247,7 +6247,9 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cat": "2026-08-09 18:55:22 +0200",
+      "minecraft:chicken": "2026-09-05 15:37:26 +0200",
       "minecraft:pig": "2026-08-12 20:52:26 +0200",
+      "minecraft:sheep": "2026-09-05 15:36:43 +0200",
       "minecraft:axolotl": "2026-08-08 16:37:14 +0200"
     },
     "done": false
