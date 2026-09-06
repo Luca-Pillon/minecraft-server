@@ -6541,27 +6541,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/resin_brick": {
-    "criteria": {
-      "has_resin_clump": "2026-09-04 14:18:40 +0200"
-    },
-    "done": true
-  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2026-09-04 13:42:05 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/resin_block": {
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
     "criteria": {
-      "has_resin_clump": "2026-09-04 14:18:40 +0200"
+      "has_log": "2026-09-04 14:01:49 +0200"
     },
     "done": true
   },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
     "criteria": {
-      "kill_mob_near_sculk_catalyst": "2026-09-04 14:33:08 +0200"
+      "has_log": "2026-09-04 14:01:49 +0200"
     },
     "done": true
   },
@@ -6577,15 +6571,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pale_oak_planks": {
+  "minecraft:recipes/misc/resin_brick": {
     "criteria": {
-      "has_log": "2026-09-04 14:01:49 +0200"
+      "has_resin_clump": "2026-09-04 14:18:40 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pale_oak_wood": {
+  "minecraft:recipes/building_blocks/resin_block": {
     "criteria": {
-      "has_log": "2026-09-04 14:01:49 +0200"
+      "has_resin_clump": "2026-09-04 14:18:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2026-09-04 14:33:08 +0200"
     },
     "done": true
   },
